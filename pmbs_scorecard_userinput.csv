@@ -1,0 +1,1001 @@
+ID;Loan_duration_in_month;Purpose;Loan_Amount;Occupation;Monthly_Income;Length_Employment;Marital_Status;Residential_Property_Status;Home_Address;Office_Address;Age;Present_Residence_Since;Email_Domain_Type
+ABC0001;1;electronics;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_3;Area_3;67;d. More10 years;Public_Domain
+ABC0002;1;household_appliances;200;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_2;22;b. 1-5 years;Public_Domain
+ABC0003;3;food;100;self-employed;a. Less 100;d. 4-7 years;married;own;Area_2;Area_1;49;c. 5-10 years;Public_Domain
+ABC0004;6;vacation;200;permanent_employee;a. Less 100;d. 4-7 years;married;family_owned;Area_1;Area_1;45;d. More10 years;Professional_Domain
+ABC0005;4;education;100;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_3;Area_3;53;d. More10 years;Public_Domain
+ABC0006;5;food;50;self-employed;e. More 2000;c. 1-4 years;married;family_owned;Area_1;Area_2;35;d. More10 years;Public_Domain
+ABC0007;1;vacation;50;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_2;Area_3;53;d. More10 years;Public_Domain
+ABC0008;5;business_loan;50;unemployed;a. Less 100;c. 1-4 years;married;rent;Area_1;Area_1;35;b. 1-5 years;Public_Domain
+ABC0009;1;household_appliances;50;self-employed;d. 1000 - 2000;d. 4-7 years;divorced;own;Area_2;Area_1;61;d. More10 years;Public_Domain
+ABC0010;3;vacation;50;unemployed;a. Less 100;a. unemployed;divorced;own;Area_2;Area_2;28;b. 1-5 years;Public_Domain
+ABC0011;6;household_appliances;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_2;Area_3;25;a. Less1 year;Public_Domain
+ABC0012;6;business_loan;100;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_1;Area_3;24;d. More10 years;Public_Domain
+ABC0013;2;household_appliances;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_1;22;a. Less1 year;Public_Domain
+ABC0014;4;electronics;50;self-employed;a. Less 100;e. More7 years;married;own;Area_3;Area_2;60;d. More10 years;Public_Domain
+ABC0015;3;education;50;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_1;Area_2;28;d. More10 years;Public_Domain
+ABC0016;1;household_appliances;50;self-employed;b. 100 - 500;c. 1-4 years;single;own;Area_2;Area_1;32;b. 1-5 years;Public_Domain
+ABC0017;1;household_appliances;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_4;Area_3;53;d. More10 years;Public_Domain
+ABC0018;5;business_loan;200;permanent_employee;e. More 2000;b. Less1 years;married;own;Area_3;Area_3;25;c. 5-10 years;Public_Domain
+ABC0019;1;business_loan;300;unemployed;a. Less 100;e. More7 years;single;family_owned;Area_1;Area_4;44;b. 1-5 years;Public_Domain
+ABC0020;3;electronics;100;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_3;Area_4;31;b. 1-5 years;Public_Domain
+ABC0021;6;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_3;Area_3;48;d. More10 years;Public_Domain
+ABC0022;1;electronics;100;permanent_employee;c. 500 - 1000;c. 1-4 years;married;rent;Area_2;Area_4;44;c. 5-10 years;Public_Domain
+ABC0023;6;food;100;self-employed;a. Less 100;b. Less1 years;married;rent;Area_1;Area_3;48;c. 5-10 years;Public_Domain
+ABC0024;6;business_loan;50;permanent_employee;b. 100 - 500;b. Less1 years;married;own;Area_2;Area_2;44;d. More10 years;Public_Domain
+ABC0025;2;electronics;100;permanent_employee;e. More 2000;c. 1-4 years;divorced;own;Area_4;Area_1;26;a. Less1 year;Public_Domain
+ABC0026;1;electronics;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_4;Area_2;36;b. 1-5 years;Public_Domain
+ABC0027;1;electronics;50;self-employed;a. Less 100;e. More7 years;divorced;own;Area_1;Area_3;39;d. More10 years;Public_Domain
+ABC0028;1;electronics;50;permanent_employee;d. 1000 - 2000;c. 1-4 years;single;rent;Area_4;Area_2;42;c. 5-10 years;Public_Domain
+ABC0029;2;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_2;34;b. 1-5 years;Public_Domain
+ABC0030;6;business_loan;200;permanent_employee;a. Less 100;e. More7 years;married;own;Area_1;Area_2;63;d. More10 years;Public_Domain
+ABC0031;3;business_loan;50;permanent_employee;d. 1000 - 2000;b. Less1 years;divorced;own;Area_3;Area_1;36;c. 5-10 years;Public_Domain
+ABC0032;1;food;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_4;Area_4;27;b. 1-5 years;Public_Domain
+ABC0033;3;education;200;permanent_employee;b. 100 - 500;c. 1-4 years;married;own;Area_2;Area_2;30;b. 1-5 years;Professional_Domain
+ABC0034;3;business_loan;50;self-employed;e. More 2000;e. More7 years;married;rent;Area_1;Area_4;57;d. More10 years;Public_Domain
+ABC0035;2;food;50;unemployed;a. Less 100;b. Less1 years;single;own;Area_2;Area_2;33;a. Less1 year;Public_Domain
+ABC0036;6;electronics;100;self-employed;a. Less 100;b. Less1 years;married;own;Area_2;Area_2;25;b. 1-5 years;Public_Domain
+ABC0037;6;food;200;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_3;Area_1;31;c. 5-10 years;Public_Domain
+ABC0038;1;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_3;Area_4;37;b. 1-5 years;Public_Domain
+ABC0039;2;education;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_2;37;b. 1-5 years;Public_Domain
+ABC0040;2;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_3;Area_2;24;c. 5-10 years;Public_Domain
+ABC0041;1;electronics;100;unemployed;c. 500 - 1000;e. More7 years;married;own;Area_4;Area_3;30;b. 1-5 years;Public_Domain
+ABC0042;6;electronics;50;permanent_employee;c. 500 - 1000;c. 1-4 years;divorced;own;Area_3;Area_4;26;a. Less1 year;Public_Domain
+ABC0043;6;vacation;200;self-employed;a. Less 100;c. 1-4 years;married;own;Area_1;Area_2;44;d. More10 years;Professional_Domain
+ABC0044;5;business_loan;200;permanent_employee;b. 100 - 500;d. 4-7 years;divorced;rent;Area_2;Area_4;24;d. More10 years;Public_Domain
+ABC0045;6;business_loan;200;self-employed;a. Less 100;e. More7 years;single;family_owned;Area_3;Area_3;58;d. More10 years;Public_Domain
+ABC0046;3;food;50;unemployed;a. Less 100;b. Less1 years;single;own;Area_3;Area_3;35;d. More10 years;Public_Domain
+ABC0047;6;household_appliances;100;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_3;Area_4;39;d. More10 years;Public_Domain
+ABC0048;1;business_loan;50;contract_employee;c. 500 - 1000;a. unemployed;single;rent;Area_3;Area_1;23;b. 1-5 years;Public_Domain
+ABC0049;6;electronics;200;self-employed;a. Less 100;c. 1-4 years;married;own;Area_1;Area_1;39;d. More10 years;Professional_Domain
+ABC0050;6;electronics;100;permanent_employee;b. 100 - 500;c. 1-4 years;single;own;Area_1;Area_4;28;b. 1-5 years;Public_Domain
+ABC0051;1;food;100;self-employed;e. More 2000;b. Less1 years;married;own;Area_1;Area_3;29;b. 1-5 years;Public_Domain
+ABC0052;4;business_loan;200;unemployed;a. Less 100;e. More7 years;married;own;Area_3;Area_3;30;b. 1-5 years;Public_Domain
+ABC0053;3;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_1;25;b. 1-5 years;Public_Domain
+ABC0054;3;education;100;permanent_employee;e. More 2000;c. 1-4 years;married;own;Area_1;Area_2;31;a. Less1 year;Professional_Domain
+ABC0055;6;household_appliances;100;permanent_employee;a. Less 100;e. More7 years;married;family_owned;Area_4;Area_3;57;d. More10 years;Public_Domain
+ABC0056;1;education;50;self-employed;e. More 2000;c. 1-4 years;married;own;Area_1;Area_2;26;b. 1-5 years;Public_Domain
+ABC0057;6;electronics;200;unemployed;e. More 2000;a. unemployed;married;own;Area_2;Area_4;52;a. Less1 year;Professional_Domain
+ABC0058;5;electronics;200;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_4;Area_1;31;b. 1-5 years;Public_Domain
+ABC0059;3;household_appliances;50;unemployed;a. Less 100;e. More7 years;single;own;Area_4;Area_2;23;b. 1-5 years;Public_Domain
+ABC0060;6;electronics;200;self-employed;a. Less 100;b. Less1 years;single;rent;Area_4;Area_4;23;d. More10 years;Professional_Domain
+ABC0061;6;business_loan;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_4;Area_4;27;a. Less1 year;Public_Domain
+ABC0062;3;electronics;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_3;50;d. More10 years;Public_Domain
+ABC0063;6;business_loan;50;unemployed;a. Less 100;e. More7 years;married;family_owned;Area_4;Area_1;61;d. More10 years;Public_Domain
+ABC0064;6;business_loan;300;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_3;25;b. 1-5 years;Professional_Domain
+ABC0065;3;electronics;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_2;Area_2;26;d. More10 years;Public_Domain
+ABC0066;4;vacation;200;permanent_employee;e. More 2000;e. More7 years;married;own;Area_3;Area_3;48;d. More10 years;Public_Domain
+ABC0067;2;electronics;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_4;Area_4;29;b. 1-5 years;Public_Domain
+ABC0068;3;education;50;permanent_employee;d. 1000 - 2000;c. 1-4 years;divorced;own;Area_1;Area_2;22;a. Less1 year;Public_Domain
+ABC0069;1;food;50;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_2;Area_2;37;d. More10 years;Public_Domain
+ABC0070;5;electronics;100;permanent_employee;e. More 2000;c. 1-4 years;single;own;Area_1;Area_4;25;d. More10 years;Public_Domain
+ABC0071;5;education;200;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_1;30;b. 1-5 years;Professional_Domain
+ABC0072;2;electronics;50;self-employed;e. More 2000;e. More7 years;married;rent;Area_1;Area_1;46;b. 1-5 years;Public_Domain
+ABC0073;2;household_appliances;50;unemployed;a. Less 100;e. More7 years;married;family_owned;Area_2;Area_2;51;d. More10 years;Public_Domain
+ABC0074;6;business_loan;200;self-employed;a. Less 100;d. 4-7 years;single;own;Area_1;Area_3;41;a. Less1 year;Professional_Domain
+ABC0075;1;food;50;unemployed;e. More 2000;e. More7 years;married;own;Area_3;Area_3;40;d. More10 years;Public_Domain
+ABC0076;2;education;50;unemployed;a. Less 100;e. More7 years;married;family_owned;Area_4;Area_1;66;d. More10 years;Public_Domain
+ABC0077;6;electronics;100;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_2;Area_2;34;c. 5-10 years;Public_Domain
+ABC0078;6;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_1;Area_2;51;d. More10 years;Public_Domain
+ABC0079;6;business_loan;200;self-employed;e. More 2000;c. 1-4 years;married;own;Area_2;Area_2;39;b. 1-5 years;Public_Domain
+ABC0080;5;electronics;100;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_4;Area_3;22;a. Less1 year;Public_Domain
+ABC0081;4;electronics;200;permanent_employee;e. More 2000;b. Less1 years;single;own;Area_3;Area_2;44;a. Less1 year;Public_Domain
+ABC0082;3;electronics;50;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_3;Area_4;47;c. 5-10 years;Public_Domain
+ABC0083;3;business_loan;50;self-employed;;c. 1-4 years;single;rent;Area_3;Area_4;24;d. More10 years;Public_Domain
+ABC0084;4;food;50;self-employed;;e. More7 years;single;own;Area_4;Area_3;58;d. More10 years;Public_Domain
+ABC0085;2;electronics;100;self-employed;;e. More7 years;married;own;Area_4;Area_4;52;d. More10 years;Public_Domain
+ABC0086;1;business_loan;50;unemployed;;c. 1-4 years;single;own;Area_2;Area_2;29;b. 1-5 years;Public_Domain
+ABC0087;6;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_2;Area_2;27;a. Less1 year;Public_Domain
+ABC0088;5;food;300;permanent_employee;b. 100 - 500;c. 1-4 years;married;family_owned;Area_2;Area_2;47;d. More10 years;Public_Domain
+ABC0089;3;education;100;unemployed;b. 100 - 500;d. 4-7 years;married;own;Area_2;Area_4;30;c. 5-10 years;Public_Domain
+ABC0090;2;vacation;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_2;28;c. 5-10 years;Public_Domain
+ABC0091;2;electronics;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_4;56;d. More10 years;Public_Domain
+ABC0092;1;business_loan;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_1;Area_3;54;c. 5-10 years;Public_Domain
+ABC0093;1;electronics;50;self-employed;e. More 2000;e. More7 years;single;own;Area_1;Area_2;33;c. 5-10 years;Public_Domain
+ABC0094;4;food;100;permanent_employee;e. More 2000;e. More7 years;married;rent;Area_2;Area_3;20;d. More10 years;Professional_Domain
+ABC0095;6;electronics;50;permanent_employee;d. 1000 - 2000;e. More7 years;married;own;Area_1;Area_4;54;d. More10 years;Public_Domain
+ABC0096;6;business_loan;300;permanent_employee;a. Less 100;b. Less1 years;married;rent;Area_1;Area_2;58;d. More10 years;Professional_Domain
+ABC0097;2;food;100;permanent_employee;e. More 2000;d. 4-7 years;single;own;Area_4;Area_1;61;b. 1-5 years;Public_Domain
+ABC0098;3;business_loan;100;permanent_employee;b. 100 - 500;c. 1-4 years;married;own;Area_1;Area_2;34;d. More10 years;Public_Domain
+ABC0099;5;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_2;36;d. More10 years;Public_Domain
+ABC0100;3;business_loan;200;unemployed;e. More 2000;d. 4-7 years;married;rent;Area_2;Area_1;36;d. More10 years;Professional_Domain
+ABC0101;4;electronics;50;self-employed;b. 100 - 500;e. More7 years;divorced;rent;Area_3;Area_3;41;d. More10 years;Public_Domain
+ABC0102;5;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;married;rent;Area_1;Area_3;24;d. More10 years;Public_Domain
+ABC0103;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_3;24;b. 1-5 years;Public_Domain
+ABC0104;6;food;50;permanent_employee;a. Less 100;d. 4-7 years;married;rent;Area_1;Area_1;35;c. 5-10 years;Public_Domain
+ABC0105;2;education;100;permanent_employee;e. More 2000;b. Less1 years;divorced;rent;Area_4;Area_2;26;d. More10 years;Public_Domain
+ABC0106;3;household_appliances;300;unemployed;a. Less 100;c. 1-4 years;married;own;Area_2;Area_3;39;c. 5-10 years;Professional_Domain
+ABC0107;1;electronics;200;unemployed;a. Less 100;e. More7 years;married;own;Area_1;Area_4;39;d. More10 years;Professional_Domain
+ABC0108;6;electronics;200;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_1;Area_3;32;b. 1-5 years;Professional_Domain
+ABC0109;6;vacation;200;permanent_employee;e. More 2000;b. Less1 years;single;own;Area_1;Area_3;30;b. 1-5 years;Professional_Domain
+ABC0110;3;business_loan;50;permanent_employee;c. 500 - 1000;e. More7 years;divorced;own;Area_1;Area_3;35;b. 1-5 years;Public_Domain
+ABC0111;6;business_loan;50;permanent_employee;b. 100 - 500;e. More7 years;divorced;own;Area_3;Area_3;31;b. 1-5 years;Public_Domain
+ABC0112;3;food;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_2;Area_4;23;d. More10 years;Public_Domain
+ABC0113;3;electronics;200;self-employed;a. Less 100;d. 4-7 years;married;rent;Area_4;Area_3;28;c. 5-10 years;Public_Domain
+ABC0114;1;electronics;200;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_4;25;b. 1-5 years;Professional_Domain
+ABC0115;1;vacation;50;permanent_employee;c. 500 - 1000;e. More7 years;divorced;own;Area_2;Area_4;35;a. Less1 year;Public_Domain
+ABC0116;1;electronics;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_1;Area_4;47;a. Less1 year;Public_Domain
+ABC0117;1;electronics;200;unemployed;e. More 2000;d. 4-7 years;single;own;Area_2;Area_3;30;c. 5-10 years;Public_Domain
+ABC0118;3;food;100;permanent_employee;e. More 2000;b. Less1 years;single;rent;Area_2;Area_2;27;c. 5-10 years;Public_Domain
+ABC0119;3;electronics;100;permanent_employee;c. 500 - 1000;c. 1-4 years;single;own;Area_2;Area_2;23;d. More10 years;Public_Domain
+ABC0120;6;electronics;100;unemployed;c. 500 - 1000;d. 4-7 years;divorced;own;Area_3;Area_2;36;c. 5-10 years;Public_Domain
+ABC0121;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_1;Area_2;25;b. 1-5 years;Public_Domain
+ABC0122;4;business_loan;100;unemployed;a. Less 100;e. More7 years;single;rent;Area_2;Area_3;41;b. 1-5 years;Professional_Domain
+ABC0123;6;electronics;50;self-employed;a. Less 100;c. 1-4 years;married;rent;Area_4;Area_2;24;b. 1-5 years;Public_Domain
+ABC0124;2;electronics;50;permanent_employee;a. Less 100;e. More7 years;married;family_owned;Area_3;Area_1;63;d. More10 years;Public_Domain
+ABC0125;3;electronics;50;permanent_employee;e. More 2000;b. Less1 years;single;rent;Area_1;Area_2;27;c. 5-10 years;Public_Domain
+ABC0126;1;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_3;30;b. 1-5 years;Public_Domain
+ABC0127;6;electronics;50;self-employed;a. Less 100;c. 1-4 years;divorced;own;Area_3;Area_1;40;b. 1-5 years;Public_Domain
+ABC0128;2;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_1;30;b. 1-5 years;Public_Domain
+ABC0129;3;business_loan;50;unemployed;a. Less 100;a. unemployed;married;own;Area_3;Area_1;34;b. 1-5 years;Public_Domain
+ABC0130;6;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_1;Area_4;29;b. 1-5 years;Public_Domain
+ABC0131;6;electronics;200;permanent_employee;e. More 2000;d. 4-7 years;single;own;Area_1;Area_4;24;b. 1-5 years;Professional_Domain
+ABC0132;3;food;200;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_4;29;c. 5-10 years;Public_Domain
+ABC0133;3;electronics;100;self-employed;a. Less 100;b. Less1 years;married;own;Area_1;Area_1;27;c. 5-10 years;Public_Domain
+ABC0134;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_3;Area_2;47;d. More10 years;Public_Domain
+ABC0135;6;household_appliances;300;permanent_employee;b. 100 - 500;d. 4-7 years;single;own;Area_4;Area_4;21;d. More10 years;Public_Domain
+ABC0136;1;household_appliances;50;permanent_employee;e. More 2000;e. More7 years;single;own;Area_2;Area_3;38;b. 1-5 years;Public_Domain
+ABC0137;4;business_loan;200;permanent_employee;d. 1000 - 2000;c. 1-4 years;married;own;Area_4;Area_3;27;b. 1-5 years;Professional_Domain
+ABC0138;3;electronics;50;self-employed;c. 500 - 1000;c. 1-4 years;married;own;Area_3;Area_2;66;c. 5-10 years;Public_Domain
+ABC0139;3;electronics;100;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_3;Area_2;35;b. 1-5 years;Public_Domain
+ABC0140;1;electronics;50;self-employed;a. Less 100;c. 1-4 years;single;rent;Area_4;Area_2;44;b. 1-5 years;Public_Domain
+ABC0141;1;electronics;50;contract_employee;d. 1000 - 2000;b. Less1 years;divorced;own;Area_3;Area_2;27;b. 1-5 years;Public_Domain
+ABC0142;5;electronics;100;unemployed;a. Less 100;b. Less1 years;single;own;Area_2;Area_1;30;a. Less1 year;Public_Domain
+ABC0143;1;electronics;100;unemployed;a. Less 100;c. 1-4 years;married;own;Area_2;Area_2;27;b. 1-5 years;Professional_Domain
+ABC0144;6;household_appliances;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_1;22;b. 1-5 years;Public_Domain
+ABC0145;6;household_appliances;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_4;Area_2;23;d. More10 years;Public_Domain
+ABC0146;6;business_loan;100;permanent_employee;b. 100 - 500;d. 4-7 years;married;own;Area_1;Area_2;30;b. 1-5 years;Public_Domain
+ABC0147;1;electronics;50;permanent_employee;a. Less 100;e. More7 years;single;own;Area_2;Area_1;39;d. More10 years;Public_Domain
+ABC0148;6;vacation;50;permanent_employee;b. 100 - 500;d. 4-7 years;single;own;Area_1;Area_3;51;c. 5-10 years;Public_Domain
+ABC0149;5;electronics;200;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_4;28;b. 1-5 years;Professional_Domain
+ABC0150;3;electronics;50;permanent_employee;d. 1000 - 2000;e. More7 years;married;own;Area_1;Area_3;46;d. More10 years;Public_Domain
+ABC0151;1;electronics;50;permanent_employee;b. 100 - 500;e. More7 years;married;family_owned;Area_2;Area_2;42;d. More10 years;Public_Domain
+ABC0152;2;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_3;38;d. More10 years;Public_Domain
+ABC0153;5;education;200;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_3;Area_2;24;a. Less1 year;Professional_Domain
+ABC0154;4;business_loan;200;permanent_employee;d. 1000 - 2000;e. More7 years;single;rent;Area_2;Area_3;29;d. More10 years;Public_Domain
+ABC0155;4;business_loan;200;unemployed;b. 100 - 500;d. 4-7 years;married;rent;Area_3;Area_4;36;d. More10 years;Professional_Domain
+ABC0156;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_2;Area_2;20;d. More10 years;Public_Domain
+ABC0157;2;vacation;50;permanent_employee;b. 100 - 500;e. More7 years;married;own;Area_2;Area_4;48;d. More10 years;Public_Domain
+ABC0158;2;education;50;self-employed;a. Less 100;e. More7 years;divorced;own;Area_2;Area_3;45;a. Less1 year;Public_Domain
+ABC0159;4;vacation;100;permanent_employee;b. 100 - 500;d. 4-7 years;married;own;Area_1;Area_2;38;c. 5-10 years;Public_Domain
+ABC0160;1;electronics;50;self-employed;e. More 2000;c. 1-4 years;married;own;Area_1;Area_3;34;b. 1-5 years;Public_Domain
+ABC0161;1;education;100;permanent_employee;b. 100 - 500;e. More7 years;married;own;Area_1;Area_2;36;d. More10 years;Public_Domain
+ABC0162;1;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_1;Area_4;30;a. Less1 year;Public_Domain
+ABC0163;3;household_appliances;50;permanent_employee;c. 500 - 1000;d. 4-7 years;married;own;Area_2;Area_4;36;c. 5-10 years;Public_Domain
+ABC0164;2;food;200;unemployed;a. Less 100;a. unemployed;married;family_owned;Area_2;Area_3;70;d. More10 years;Public_Domain
+ABC0165;1;electronics;50;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_4;Area_4;36;d. More10 years;Public_Domain
+ABC0166;1;electronics;100;permanent_employee;c. 500 - 1000;c. 1-4 years;married;own;Area_4;Area_1;32;b. 1-5 years;Public_Domain
+ABC0167;3;vacation;50;permanent_employee;a. Less 100;a. unemployed;single;own;Area_2;Area_4;33;b. 1-5 years;Public_Domain
+ABC0168;1;electronics;50;permanent_employee;d. 1000 - 2000;b. Less1 years;single;own;Area_1;Area_2;20;a. Less1 year;Public_Domain
+ABC0169;6;vacation;100;permanent_employee;a. Less 100;d. 4-7 years;single;rent;Area_1;Area_1;25;d. More10 years;Professional_Domain
+ABC0170;4;business_loan;50;permanent_employee;a. Less 100;e. More7 years;divorced;own;Area_1;Area_3;31;d. More10 years;Public_Domain
+ABC0171;1;electronics;50;permanent_employee;a. Less 100;e. More7 years;married;rent;Area_4;Area_1;33;c. 5-10 years;Public_Domain
+ABC0172;1;food;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_3;26;a. Less1 year;Public_Domain
+ABC0173;4;food;100;unemployed;a. Less 100;a. unemployed;single;own;Area_1;Area_2;34;b. 1-5 years;Public_Domain
+ABC0174;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_2;33;b. 1-5 years;Public_Domain
+ABC0175;3;food;100;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_2;Area_3;26;a. Less1 year;Public_Domain
+ABC0176;5;business_loan;200;unemployed;e. More 2000;a. unemployed;single;own;Area_4;Area_3;53;a. Less1 year;Professional_Domain
+ABC0177;6;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_4;Area_4;42;a. Less1 year;Public_Domain
+ABC0178;1;electronics;50;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_3;Area_3;52;d. More10 years;Public_Domain
+ABC0179;2;food;50;unemployed;a. Less 100;d. 4-7 years;married;rent;Area_4;Area_2;31;b. 1-5 years;Public_Domain
+ABC0180;3;vacation;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_3;65;d. More10 years;Public_Domain
+ABC0181;6;business_loan;200;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_4;Area_2;28;a. Less1 year;Public_Domain
+ABC0182;6;household_appliances;100;unemployed;a. Less 100;c. 1-4 years;divorced;own;Area_3;Area_2;30;b. 1-5 years;Professional_Domain
+ABC0183;1;food;50;self-employed;e. More 2000;c. 1-4 years;married;own;Area_3;Area_3;40;b. 1-5 years;Public_Domain
+ABC0184;1;electronics;100;permanent_employee;d. 1000 - 2000;c. 1-4 years;married;own;Area_2;Area_1;50;d. More10 years;Professional_Domain
+ABC0185;3;electronics;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_1;36;d. More10 years;Public_Domain
+ABC0186;3;household_appliances;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_2;31;b. 1-5 years;Public_Domain
+ABC0187;1;business_loan;200;unemployed;a. Less 100;e. More7 years;single;family_owned;Area_4;Area_1;74;d. More10 years;Professional_Domain
+ABC0188;3;electronics;50;contract_employee;a. Less 100;a. unemployed;married;family_owned;Area_1;Area_2;68;c. 5-10 years;Public_Domain
+ABC0189;1;household_appliances;50;permanent_employee;b. 100 - 500;d. 4-7 years;divorced;own;Area_2;Area_1;20;a. Less1 year;Public_Domain
+ABC0190;3;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_3;Area_3;33;d. More10 years;Professional_Domain
+ABC0191;3;business_loan;100;unemployed;d. 1000 - 2000;c. 1-4 years;married;own;Area_4;Area_2;54;c. 5-10 years;Public_Domain
+ABC0192;6;business_loan;100;self-employed;b. 100 - 500;d. 4-7 years;married;family_owned;Area_2;Area_1;34;d. More10 years;Professional_Domain
+ABC0193;4;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_3;36;b. 1-5 years;Professional_Domain
+ABC0194;1;household_appliances;100;permanent_employee;a. Less 100;d. 4-7 years;divorced;rent;Area_2;Area_4;29;b. 1-5 years;Public_Domain
+ABC0195;6;food;100;permanent_employee;b. 100 - 500;c. 1-4 years;married;rent;Area_1;Area_4;21;d. More10 years;Professional_Domain
+ABC0196;2;food;50;unemployed;a. Less 100;e. More7 years;single;own;Area_2;Area_3;34;c. 5-10 years;Public_Domain
+ABC0197;1;vacation;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_2;28;a. Less1 year;Public_Domain
+ABC0198;6;electronics;50;permanent_employee;b. 100 - 500;b. Less1 years;single;rent;Area_3;Area_1;27;d. More10 years;Public_Domain
+ABC0199;4;business_loan;100;permanent_employee;e. More 2000;e. More7 years;married;family_owned;Area_1;Area_2;36;d. More10 years;Public_Domain
+ABC0200;6;household_appliances;100;unemployed;a. Less 100;e. More7 years;divorced;own;Area_3;Area_2;40;c. 5-10 years;Public_Domain
+ABC0201;1;food;50;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_4;Area_1;52;b. 1-5 years;Public_Domain
+ABC0202;6;electronics;50;self-employed;a. Less 100;c. 1-4 years;divorced;own;Area_4;Area_2;27;c. 5-10 years;Public_Domain
+ABC0203;4;business_loan;200;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_1;Area_3;26;d. More10 years;Professional_Domain
+ABC0204;1;education;50;permanent_employee;a. Less 100;d. 4-7 years;divorced;rent;Area_1;Area_2;21;d. More10 years;Public_Domain
+ABC0205;6;electronics;50;self-employed;a. Less 100;e. More7 years;married;own;Area_2;Area_1;38;a. Less1 year;Public_Domain
+ABC0206;5;education;300;unemployed;a. Less 100;e. More7 years;married;family_owned;Area_1;Area_3;38;d. More10 years;Professional_Domain
+ABC0207;1;food;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_1;43;d. More10 years;Public_Domain
+ABC0208;2;household_appliances;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_2;26;c. 5-10 years;Public_Domain
+ABC0209;4;business_loan;200;self-employed;a. Less 100;c. 1-4 years;divorced;own;Area_2;Area_1;21;b. 1-5 years;Professional_Domain
+ABC0210;2;education;50;permanent_employee;d. 1000 - 2000;d. 4-7 years;married;own;Area_4;Area_4;55;b. 1-5 years;Public_Domain
+ABC0211;1;vacation;100;permanent_employee;e. More 2000;c. 1-4 years;married;own;Area_1;Area_4;33;b. 1-5 years;Professional_Domain
+ABC0212;5;household_appliances;100;self-employed;e. More 2000;e. More7 years;single;own;Area_3;Area_3;45;d. More10 years;Professional_Domain
+ABC0213;6;business_loan;200;permanent_employee;a. Less 100;a. unemployed;married;own;Area_1;Area_2;50;d. More10 years;Professional_Domain
+ABC0214;6;business_loan;50;unemployed;a. Less 100;e. More7 years;married;own;Area_1;Area_2;66;d. More10 years;Public_Domain
+ABC0215;5;electronics;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_2;51;b. 1-5 years;Public_Domain
+ABC0216;1;education;50;self-employed;e. More 2000;d. 4-7 years;single;own;Area_2;Area_2;39;c. 5-10 years;Public_Domain
+ABC0217;3;business_loan;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_2;31;a. Less1 year;Public_Domain
+ABC0218;3;household_appliances;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_3;23;b. 1-5 years;Professional_Domain
+ABC0219;4;electronics;100;self-employed;a. Less 100;c. 1-4 years;divorced;rent;Area_4;Area_4;24;b. 1-5 years;Professional_Domain
+ABC0220;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_1;Area_3;64;d. More10 years;Public_Domain
+ABC0221;1;household_appliances;50;self-employed;a. Less 100;b. Less1 years;divorced;own;Area_2;Area_4;26;a. Less1 year;Public_Domain
+ABC0222;2;food;50;permanent_employee;e. More 2000;c. 1-4 years;single;rent;Area_2;Area_1;23;d. More10 years;Public_Domain
+ABC0223;1;household_appliances;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_4;30;b. 1-5 years;Public_Domain
+ABC0224;6;business_loan;100;permanent_employee;e. More 2000;c. 1-4 years;married;own;Area_2;Area_4;32;d. More10 years;Public_Domain
+ABC0225;1;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_2;30;b. 1-5 years;Public_Domain
+ABC0226;1;vacation;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_3;Area_3;27;b. 1-5 years;Public_Domain
+ABC0227;6;household_appliances;300;permanent_employee;d. 1000 - 2000;d. 4-7 years;married;own;Area_4;Area_2;27;b. 1-5 years;Professional_Domain
+ABC0228;6;electronics;200;unemployed;a. Less 100;e. More7 years;married;family_owned;Area_2;Area_2;53;d. More10 years;Professional_Domain
+ABC0229;2;electronics;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_3;22;b. 1-5 years;Public_Domain
+ABC0230;4;electronics;100;permanent_employee;a. Less 100;b. Less1 years;married;family_owned;Area_3;Area_3;22;a. Less1 year;Professional_Domain
+ABC0231;5;vacation;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_1;26;b. 1-5 years;Public_Domain
+ABC0232;6;electronics;100;self-employed;c. 500 - 1000;e. More7 years;married;family_owned;Area_4;Area_4;51;d. More10 years;Public_Domain
+ABC0233;2;vacation;100;permanent_employee;b. 100 - 500;d. 4-7 years;married;own;Area_2;Area_2;35;a. Less1 year;Public_Domain
+ABC0234;6;vacation;50;self-employed;a. Less 100;c. 1-4 years;divorced;own;Area_3;Area_4;25;b. 1-5 years;Public_Domain
+ABC0235;1;electronics;50;self-employed;a. Less 100;d. 4-7 years;married;own;Area_2;Area_3;42;a. Less1 year;Public_Domain
+ABC0236;1;vacation;50;unemployed;a. Less 100;a. unemployed;married;own;Area_2;Area_1;30;b. 1-5 years;Public_Domain
+ABC0237;1;electronics;300;contract_employee;e. More 2000;a. unemployed;married;own;Area_3;Area_1;23;b. 1-5 years;Public_Domain
+ABC0238;3;household_appliances;100;self-employed;b. 100 - 500;e. More7 years;divorced;rent;Area_2;Area_3;61;b. 1-5 years;Public_Domain
+ABC0239;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_2;35;b. 1-5 years;Public_Domain
+ABC0240;5;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_3;39;c. 5-10 years;Public_Domain
+ABC0241;4;electronics;50;permanent_employee;e. More 2000;e. More7 years;single;own;Area_3;Area_2;29;b. 1-5 years;Public_Domain
+ABC0242;1;vacation;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_2;51;b. 1-5 years;Public_Domain
+ABC0243;6;business_loan;100;permanent_employee;a. Less 100;e. More7 years;married;family_owned;Area_2;Area_3;24;d. More10 years;Professional_Domain
+ABC0244;3;business_loan;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_3;27;b. 1-5 years;Public_Domain
+ABC0245;6;education;100;self-employed;c. 500 - 1000;c. 1-4 years;single;own;Area_4;Area_2;35;c. 5-10 years;Professional_Domain
+ABC0246;4;business_loan;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_3;25;a. Less1 year;Public_Domain
+ABC0247;2;electronics;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_3;52;d. More10 years;Public_Domain
+ABC0248;1;electronics;50;permanent_employee;b. 100 - 500;c. 1-4 years;married;rent;Area_2;Area_3;35;a. Less1 year;Public_Domain
+ABC0249;4;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_2;26;b. 1-5 years;Public_Domain
+ABC0250;1;business_loan;50;permanent_employee;a. Less 100;a. unemployed;single;rent;Area_1;Area_4;22;d. More10 years;Public_Domain
+ABC0251;1;electronics;50;self-employed;d. 1000 - 2000;d. 4-7 years;single;own;Area_1;Area_2;39;d. More10 years;Public_Domain
+ABC0252;1;electronics;100;self-employed;a. Less 100;c. 1-4 years;single;own;Area_4;Area_2;46;b. 1-5 years;Public_Domain
+ABC0253;6;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_1;24;b. 1-5 years;Public_Domain
+ABC0254;4;electronics;100;permanent_employee;b. 100 - 500;c. 1-4 years;married;own;Area_3;Area_4;35;c. 5-10 years;Public_Domain
+ABC0255;2;electronics;100;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_2;Area_3;24;a. Less1 year;Public_Domain
+ABC0256;6;electronics;200;self-employed;e. More 2000;c. 1-4 years;married;own;Area_4;Area_1;27;a. Less1 year;Professional_Domain
+ABC0257;4;electronics;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_1;Area_2;35;b. 1-5 years;Public_Domain
+ABC0258;1;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;family_owned;Area_3;Area_1;29;a. Less1 year;Public_Domain
+ABC0259;3;business_loan;100;permanent_employee;b. 100 - 500;b. Less1 years;single;own;Area_1;Area_3;23;d. More10 years;Professional_Domain
+ABC0260;3;food;50;self-employed;b. 100 - 500;a. unemployed;single;own;Area_2;Area_4;57;d. More10 years;Public_Domain
+ABC0261;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_2;27;b. 1-5 years;Public_Domain
+ABC0262;4;electronics;50;permanent_employee;a. Less 100;e. More7 years;single;own;Area_2;Area_4;55;d. More10 years;Public_Domain
+ABC0263;3;food;200;unemployed;a. Less 100;e. More7 years;married;family_owned;Area_2;Area_1;36;d. More10 years;Public_Domain
+ABC0264;6;food;100;self-employed;a. Less 100;e. More7 years;single;family_owned;Area_4;Area_3;57;d. More10 years;Public_Domain
+ABC0265;2;electronics;50;self-employed;a. Less 100;e. More7 years;married;own;Area_1;Area_4;32;d. More10 years;Public_Domain
+ABC0266;3;household_appliances;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_4;Area_2;37;c. 5-10 years;Public_Domain
+ABC0267;6;business_loan;200;permanent_employee;e. More 2000;e. More7 years;married;own;Area_1;Area_2;36;d. More10 years;Professional_Domain
+ABC0268;4;household_appliances;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_1;Area_2;38;c. 5-10 years;Public_Domain
+ABC0269;3;food;200;unemployed;a. Less 100;e. More7 years;divorced;own;Area_4;Area_3;45;d. More10 years;Professional_Domain
+ABC0270;4;electronics;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_2;25;b. 1-5 years;Public_Domain
+ABC0271;3;electronics;100;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_1;Area_2;32;c. 5-10 years;Public_Domain
+ABC0272;2;electronics;50;permanent_employee;c. 500 - 1000;d. 4-7 years;single;rent;Area_4;Area_2;37;d. More10 years;Public_Domain
+ABC0273;6;education;300;unemployed;e. More 2000;a. unemployed;married;family_owned;Area_4;Area_2;36;d. More10 years;Public_Domain
+ABC0274;6;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_4;Area_4;28;d. More10 years;Public_Domain
+ABC0275;5;vacation;300;self-employed;a. Less 100;b. Less1 years;divorced;own;Area_1;Area_4;34;a. Less1 year;Professional_Domain
+ABC0276;2;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_3;32;b. 1-5 years;Public_Domain
+ABC0277;3;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_1;Area_1;26;b. 1-5 years;Public_Domain
+ABC0278;6;vacation;50;self-employed;e. More 2000;e. More7 years;divorced;own;Area_1;Area_3;49;d. More10 years;Public_Domain
+ABC0279;1;electronics;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_3;Area_2;32;d. More10 years;Public_Domain
+ABC0280;4;vacation;50;unemployed;b. 100 - 500;c. 1-4 years;married;rent;Area_1;Area_4;29;d. More10 years;Public_Domain
+ABC0281;3;business_loan;100;permanent_employee;d. 1000 - 2000;e. More7 years;married;rent;Area_3;Area_2;23;d. More10 years;Public_Domain
+ABC0282;6;vacation;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_3;50;b. 1-5 years;Public_Domain
+ABC0283;3;electronics;50;self-employed;e. More 2000;d. 4-7 years;married;own;Area_4;Area_2;49;d. More10 years;Public_Domain
+ABC0284;6;household_appliances;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_1;Area_3;63;d. More10 years;Public_Domain
+ABC0285;4;vacation;100;permanent_employee;b. 100 - 500;b. Less1 years;divorced;own;Area_1;Area_2;37;b. 1-5 years;Professional_Domain
+ABC0286;6;vacation;300;self-employed;a. Less 100;b. Less1 years;single;own;Area_2;Area_4;35;a. Less1 year;Professional_Domain
+ABC0287;6;business_loan;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_4;26;c. 5-10 years;Public_Domain
+ABC0288;6;household_appliances;200;unemployed;b. 100 - 500;a. unemployed;married;family_owned;Area_1;Area_1;31;d. More10 years;Professional_Domain
+ABC0289;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_3;Area_2;49;d. More10 years;Public_Domain
+ABC0290;1;electronics;50;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_2;Area_1;48;d. More10 years;Public_Domain
+ABC0291;1;business_loan;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_4;Area_1;26;b. 1-5 years;Public_Domain
+ABC0292;5;business_loan;200;unemployed;a. Less 100;b. Less1 years;divorced;rent;Area_1;Area_2;28;d. More10 years;Professional_Domain
+ABC0293;4;business_loan;200;unemployed;a. Less 100;e. More7 years;single;family_owned;Area_2;Area_2;44;d. More10 years;Public_Domain
+ABC0294;1;business_loan;100;permanent_employee;a. Less 100;e. More7 years;married;family_owned;Area_2;Area_4;56;d. More10 years;Public_Domain
+ABC0295;6;business_loan;200;unemployed;e. More 2000;e. More7 years;divorced;own;Area_1;Area_3;46;b. 1-5 years;Professional_Domain
+ABC0296;1;household_appliances;200;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_4;Area_1;26;b. 1-5 years;Professional_Domain
+ABC0297;6;business_loan;100;permanent_employee;e. More 2000;b. Less1 years;single;rent;Area_4;Area_4;20;d. More10 years;Professional_Domain
+ABC0298;2;electronics;50;self-employed;e. More 2000;e. More7 years;married;own;Area_1;Area_2;45;b. 1-5 years;Public_Domain
+ABC0299;6;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_3;43;d. More10 years;Public_Domain
+ABC0300;3;electronics;100;permanent_employee;d. 1000 - 2000;d. 4-7 years;married;own;Area_2;Area_2;32;b. 1-5 years;Public_Domain
+ABC0301;1;electronics;50;contract_employee;a. Less 100;a. unemployed;single;own;Area_3;Area_1;54;d. More10 years;Public_Domain
+ABC0302;5;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_3;Area_4;42;a. Less1 year;Public_Domain
+ABC0303;1;education;50;self-employed;e. More 2000;d. 4-7 years;married;own;Area_1;Area_3;37;b. 1-5 years;Public_Domain
+ABC0304;2;electronics;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_1;Area_4;49;c. 5-10 years;Public_Domain
+ABC0305;6;food;300;permanent_employee;c. 500 - 1000;c. 1-4 years;married;family_owned;Area_1;Area_3;44;b. 1-5 years;Professional_Domain
+ABC0306;1;electronics;50;permanent_employee;d. 1000 - 2000;c. 1-4 years;divorced;own;Area_3;Area_1;33;b. 1-5 years;Public_Domain
+ABC0307;5;business_loan;100;self-employed;e. More 2000;d. 4-7 years;single;rent;Area_2;Area_2;24;d. More10 years;Public_Domain
+ABC0308;6;vacation;50;self-employed;b. 100 - 500;b. Less1 years;divorced;own;Area_2;Area_2;33;c. 5-10 years;Public_Domain
+ABC0309;2;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_2;24;d. More10 years;Public_Domain
+ABC0310;2;vacation;50;self-employed;a. Less 100;c. 1-4 years;divorced;rent;Area_1;Area_4;22;d. More10 years;Public_Domain
+ABC0311;6;food;200;contract_employee;e. More 2000;a. unemployed;married;family_owned;Area_1;Area_4;40;d. More10 years;Professional_Domain
+ABC0312;4;vacation;200;permanent_employee;b. 100 - 500;c. 1-4 years;married;own;Area_4;Area_3;25;a. Less1 year;Professional_Domain
+ABC0313;4;vacation;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_4;Area_2;26;d. More10 years;Professional_Domain
+ABC0314;6;food;50;self-employed;a. Less 100;d. 4-7 years;divorced;own;Area_4;Area_3;25;c. 5-10 years;Public_Domain
+ABC0315;1;vacation;50;self-employed;e. More 2000;b. Less1 years;married;own;Area_2;Area_2;29;b. 1-5 years;Public_Domain
+ABC0316;1;business_loan;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_2;31;d. More10 years;Public_Domain
+ABC0317;6;vacation;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_1;Area_1;38;c. 5-10 years;Public_Domain
+ABC0318;6;vacation;100;self-employed;e. More 2000;c. 1-4 years;single;own;Area_2;Area_2;48;d. More10 years;Professional_Domain
+ABC0319;6;food;50;permanent_employee;a. Less 100;;married;own;Area_1;Area_1;32;b. 1-5 years;Public_Domain
+ABC0320;3;vacation;100;self-employed;a. Less 100;;single;own;Area_2;Area_2;27;d. More10 years;Public_Domain
+ABC0321;1;education;100;unemployed;a. Less 100;;divorced;own;Area_1;Area_3;28;b. 1-5 years;Public_Domain
+ABC0322;4;vacation;50;permanent_employee;a. Less 100;;divorced;own;Area_2;Area_2;32;c. 5-10 years;Public_Domain
+ABC0323;4;business_loan;100;unemployed;a. Less 100;;married;family_owned;Area_1;Area_3;34;a. Less1 year;Public_Domain
+ABC0324;3;vacation;100;permanent_employee;d. 1000 - 2000;;married;own;Area_3;Area_2;28;b. 1-5 years;Public_Domain
+ABC0325;3;electronics;50;permanent_employee;a. Less 100;;single;own;Area_2;Area_1;36;c. 5-10 years;Public_Domain
+ABC0326;2;vacation;100;self-employed;a. Less 100;;married;own;Area_1;Area_3;39;d. More10 years;Public_Domain
+ABC0327;6;electronics;200;permanent_employee;e. More 2000;e. More7 years;married;rent;Area_2;Area_4;49;d. More10 years;Professional_Domain
+ABC0328;3;electronics;50;permanent_employee;d. 1000 - 2000;d. 4-7 years;single;own;Area_3;Area_2;34;c. 5-10 years;Public_Domain
+ABC0329;1;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_2;31;b. 1-5 years;Public_Domain
+ABC0330;1;food;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_4;28;d. More10 years;Public_Domain
+ABC0331;1;education;200;unemployed;a. Less 100;a. unemployed;married;family_owned;Area_3;Area_2;75;d. More10 years;Professional_Domain
+ABC0332;6;food;50;permanent_employee;b. 100 - 500;c. 1-4 years;single;own;Area_1;Area_1;30;b. 1-5 years;Public_Domain
+ABC0333;6;vacation;200;unemployed;b. 100 - 500;b. Less1 years;single;own;Area_2;Area_2;24;b. 1-5 years;Professional_Domain
+ABC0334;6;education;300;self-employed;b. 100 - 500;c. 1-4 years;single;rent;Area_1;Area_2;24;d. More10 years;Public_Domain
+ABC0335;4;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;rent;Area_2;Area_2;23;d. More10 years;Public_Domain
+ABC0336;1;electronics;100;unemployed;a. Less 100;c. 1-4 years;divorced;rent;Area_2;Area_1;44;d. More10 years;Professional_Domain
+ABC0337;3;vacation;100;self-employed;a. Less 100;b. Less1 years;single;own;Area_1;Area_2;23;d. More10 years;Public_Domain
+ABC0338;1;household_appliances;50;permanent_employee;e. More 2000;c. 1-4 years;single;rent;Area_2;Area_3;24;b. 1-5 years;Public_Domain
+ABC0339;3;food;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_4;Area_1;28;d. More10 years;Professional_Domain
+ABC0340;1;electronics;50;self-employed;a. Less 100;c. 1-4 years;divorced;own;Area_4;Area_1;31;b. 1-5 years;Public_Domain
+ABC0341;6;food;200;permanent_employee;a. Less 100;b. Less1 years;single;family_owned;Area_1;Area_2;24;d. More10 years;Public_Domain
+ABC0342;1;electronics;100;self-employed;a. Less 100;d. 4-7 years;single;rent;Area_1;Area_2;26;d. More10 years;Public_Domain
+ABC0343;1;food;100;permanent_employee;c. 500 - 1000;b. Less1 years;divorced;rent;Area_2;Area_1;25;c. 5-10 years;Public_Domain
+ABC0344;6;business_loan;100;unemployed;a. Less 100;e. More7 years;married;own;Area_2;Area_3;33;a. Less1 year;Professional_Domain
+ABC0345;1;electronics;100;self-employed;a. Less 100;b. Less1 years;married;own;Area_3;Area_1;37;a. Less1 year;Professional_Domain
+ABC0346;6;household_appliances;50;self-employed;a. Less 100;c. 1-4 years;single;own;Area_3;Area_1;43;b. 1-5 years;Public_Domain
+ABC0347;6;household_appliances;50;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_1;Area_1;23;d. More10 years;Public_Domain
+ABC0348;1;electronics;100;contract_employee;c. 500 - 1000;a. unemployed;single;rent;Area_4;Area_1;23;d. More10 years;Public_Domain
+ABC0349;6;business_loan;50;self-employed;b. 100 - 500;c. 1-4 years;married;own;Area_3;Area_2;34;b. 1-5 years;Public_Domain
+ABC0350;6;food;50;permanent_employee;d. 1000 - 2000;e. More7 years;married;family_owned;Area_1;Area_2;32;c. 5-10 years;Public_Domain
+ABC0351;1;education;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_1;Area_1;23;d. More10 years;Public_Domain
+ABC0352;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_3;Area_2;29;b. 1-5 years;Public_Domain
+ABC0353;3;business_loan;100;unemployed;e. More 2000;a. unemployed;married;own;Area_2;Area_4;38;d. More10 years;Public_Domain
+ABC0354;6;electronics;200;permanent_employee;a. Less 100;c. 1-4 years;married;rent;Area_1;Area_2;28;b. 1-5 years;Public_Domain
+ABC0355;3;food;50;permanent_employee;c. 500 - 1000;e. More7 years;married;family_owned;Area_2;Area_1;46;d. More10 years;Public_Domain
+ABC0356;3;business_loan;50;self-employed;a. Less 100;b. Less1 years;married;own;Area_4;Area_1;23;b. 1-5 years;Public_Domain
+ABC0357;6;electronics;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_3;49;d. More10 years;Public_Domain
+ABC0358;3;electronics;100;unemployed;a. Less 100;c. 1-4 years;married;own;Area_3;Area_2;26;b. 1-5 years;Public_Domain
+ABC0359;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_3;Area_3;28;b. 1-5 years;Public_Domain
+ABC0360;5;education;100;permanent_employee;a. Less 100;d. 4-7 years;single;rent;Area_2;Area_3;23;d. More10 years;Public_Domain
+ABC0361;3;food;50;permanent_employee;e. More 2000;c. 1-4 years;married;family_owned;Area_2;Area_4;61;d. More10 years;Public_Domain
+ABC0362;2;electronics;100;unemployed;e. More 2000;e. More7 years;married;own;Area_3;Area_2;37;c. 5-10 years;Professional_Domain
+ABC0363;2;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_1;36;b. 1-5 years;Public_Domain
+ABC0364;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;rent;Area_1;Area_4;21;b. 1-5 years;Public_Domain
+ABC0365;3;food;100;contract_employee;a. Less 100;a. unemployed;married;own;Area_1;Area_2;25;a. Less1 year;Public_Domain
+ABC0366;6;business_loan;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_4;36;d. More10 years;Public_Domain
+ABC0367;3;business_loan;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_3;27;a. Less1 year;Public_Domain
+ABC0368;3;vacation;100;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_3;Area_1;22;d. More10 years;Professional_Domain
+ABC0369;5;vacation;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_3;42;b. 1-5 years;Public_Domain
+ABC0370;3;vacation;100;permanent_employee;a. Less 100;d. 4-7 years;single;rent;Area_4;Area_1;40;d. More10 years;Professional_Domain
+ABC0371;5;electronics;100;permanent_employee;e. More 2000;c. 1-4 years;married;own;Area_1;Area_1;36;d. More10 years;Public_Domain
+ABC0372;3;electronics;200;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_1;33;d. More10 years;Professional_Domain
+ABC0373;6;household_appliances;100;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_2;Area_2;23;c. 5-10 years;Public_Domain
+ABC0374;6;vacation;300;unemployed;e. More 2000;e. More7 years;married;family_owned;Area_3;Area_3;63;d. More10 years;Professional_Domain
+ABC0375;6;vacation;300;unemployed;b. 100 - 500;e. More7 years;single;family_owned;Area_2;Area_4;60;d. More10 years;Professional_Domain
+ABC0376;6;household_appliances;200;permanent_employee;a. Less 100;d. 4-7 years;single;rent;Area_4;Area_4;37;d. More10 years;Professional_Domain
+ABC0377;3;electronics;100;permanent_employee;a. Less 100;a. unemployed;divorced;own;Area_2;Area_3;34;c. 5-10 years;Public_Domain
+ABC0378;2;electronics;50;permanent_employee;e. More 2000;e. More7 years;married;family_owned;Area_1;Area_1;36;d. More10 years;Public_Domain
+ABC0379;6;vacation;300;unemployed;a. Less 100;e. More7 years;married;family_owned;Area_1;Area_2;57;b. 1-5 years;Public_Domain
+ABC0380;1;food;50;self-employed;b. 100 - 500;c. 1-4 years;single;own;Area_2;Area_4;52;d. More10 years;Public_Domain
+ABC0381;3;electronics;100;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_2;Area_3;39;d. More10 years;Public_Domain
+ABC0382;3;education;300;unemployed;a. Less 100;a. unemployed;single;family_owned;Area_1;Area_3;38;d. More10 years;Professional_Domain
+ABC0383;4;electronics;50;permanent_employee;e. More 2000;d. 4-7 years;single;rent;Area_3;Area_1;25;d. More10 years;Public_Domain
+ABC0384;3;electronics;50;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_3;Area_4;26;a. Less1 year;Public_Domain
+ABC0385;6;business_loan;100;self-employed;b. 100 - 500;c. 1-4 years;married;own;Area_4;Area_2;26;b. 1-5 years;Public_Domain
+ABC0386;3;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_3;25;a. Less1 year;Public_Domain
+ABC0387;3;electronics;50;permanent_employee;e. More 2000;b. Less1 years;single;rent;Area_3;Area_2;21;b. 1-5 years;Public_Domain
+ABC0388;3;electronics;200;unemployed;a. Less 100;a. unemployed;married;own;Area_2;Area_2;40;d. More10 years;Public_Domain
+ABC0389;3;business_loan;100;permanent_employee;c. 500 - 1000;c. 1-4 years;married;own;Area_3;Area_4;27;d. More10 years;Public_Domain
+ABC0390;2;business_loan;50;permanent_employee;a. Less 100;d. 4-7 years;single;own;Area_1;Area_1;27;b. 1-5 years;Public_Domain
+ABC0391;3;electronics;50;unemployed;a. Less 100;c. 1-4 years;divorced;own;Area_4;Area_2;30;b. 1-5 years;Public_Domain
+ABC0392;2;electronics;50;self-employed;d. 1000 - 2000;b. Less1 years;single;rent;Area_1;Area_2;19;d. More10 years;Public_Domain
+ABC0393;5;food;100;unemployed;a. Less 100;d. 4-7 years;married;family_owned;Area_1;Area_1;39;d. More10 years;Public_Domain
+ABC0394;1;electronics;50;permanent_employee;a. Less 100;d. 4-7 years;single;own;Area_2;Area_2;31;d. More10 years;Public_Domain
+ABC0395;2;household_appliances;100;unemployed;a. Less 100;a. unemployed;married;own;Area_4;Area_1;31;c. 5-10 years;Public_Domain
+ABC0396;5;food;300;permanent_employee;b. 100 - 500;d. 4-7 years;married;rent;Area_2;Area_1;32;c. 5-10 years;Public_Domain
+ABC0397;2;household_appliances;100;unemployed;a. Less 100;a. unemployed;single;family_owned;Area_1;Area_4;55;d. More10 years;Public_Domain
+ABC0398;5;household_appliances;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_1;Area_1;46;b. 1-5 years;Public_Domain
+ABC0399;3;food;50;permanent_employee;a. Less 100;e. More7 years;divorced;rent;Area_1;Area_1;46;a. Less1 year;Public_Domain
+ABC0400;4;electronics;50;self-employed;d. 1000 - 2000;c. 1-4 years;single;own;Area_2;Area_3;43;a. Less1 year;Public_Domain
+ABC0401;3;electronics;50;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_2;Area_2;39;d. More10 years;Public_Domain
+ABC0402;3;business_loan;50;permanent_employee;e. More 2000;c. 1-4 years;divorced;own;Area_2;Area_3;28;d. More10 years;Public_Domain
+ABC0403;6;business_loan;200;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_3;Area_2;27;b. 1-5 years;Public_Domain
+ABC0404;3;electronics;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_4;Area_4;27;b. 1-5 years;Public_Domain
+ABC0405;3;electronics;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_4;43;d. More10 years;Public_Domain
+ABC0406;4;vacation;100;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_3;Area_1;22;a. Less1 year;Public_Domain
+ABC0407;4;business_loan;100;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_2;Area_2;43;d. More10 years;Public_Domain
+ABC0408;3;electronics;50;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_3;Area_2;27;b. 1-5 years;Public_Domain
+ABC0409;1;electronics;100;unemployed;c. 500 - 1000;e. More7 years;divorced;own;Area_2;Area_3;26;b. 1-5 years;Public_Domain
+ABC0410;3;food;50;permanent_employee;c. 500 - 1000;d. 4-7 years;divorced;own;Area_2;Area_2;28;b. 1-5 years;Public_Domain
+ABC0411;1;electronics;50;permanent_employee;a. Less 100;e. More7 years;single;own;Area_1;Area_3;20;d. More10 years;Public_Domain
+ABC0412;5;education;200;unemployed;a. Less 100;d. 4-7 years;married;own;Area_2;Area_3;35;b. 1-5 years;Professional_Domain
+ABC0413;6;business_loan;100;unemployed;a. Less 100;a. unemployed;married;own;Area_1;Area_3;42;b. 1-5 years;Public_Domain
+ABC0414;2;food;50;self-employed;c. 500 - 1000;c. 1-4 years;married;rent;Area_1;Area_2;40;b. 1-5 years;Public_Domain
+ABC0415;1;business_loan;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_2;35;b. 1-5 years;Public_Domain
+ABC0416;5;education;200;permanent_employee;a. Less 100;e. More7 years;married;own;Area_1;Area_2;35;b. 1-5 years;Public_Domain
+ABC0417;6;food;100;self-employed;a. Less 100;b. Less1 years;married;own;Area_4;Area_3;33;a. Less1 year;Public_Domain
+ABC0418;3;food;200;permanent_employee;e. More 2000;c. 1-4 years;single;rent;Area_2;Area_3;23;b. 1-5 years;Professional_Domain
+ABC0419;3;education;100;unemployed;c. 500 - 1000;d. 4-7 years;single;own;Area_1;Area_4;31;b. 1-5 years;Public_Domain
+ABC0420;3;electronics;50;permanent_employee;e. More 2000;c. 1-4 years;single;own;Area_3;Area_1;33;b. 1-5 years;Public_Domain
+ABC0421;3;electronics;100;permanent_employee;d. 1000 - 2000;d. 4-7 years;single;rent;Area_2;Area_1;20;c. 5-10 years;Professional_Domain
+ABC0422;6;business_loan;100;permanent_employee;e. More 2000;c. 1-4 years;married;own;Area_2;Area_4;30;b. 1-5 years;Public_Domain
+ABC0423;6;electronics;50;self-employed;a. Less 100;d. 4-7 years;married;own;Area_1;Area_4;47;c. 5-10 years;Public_Domain
+ABC0424;3;household_appliances;50;unemployed;b. 100 - 500;;married;own;Area_2;Area_2;34;c. 5-10 years;Public_Domain
+ABC0425;2;household_appliances;100;permanent_employee;e. More 2000;;single;own;Area_4;Area_1;25;b. 1-5 years;Public_Domain
+ABC0426;3;business_loan;100;permanent_employee;a. Less 100;;divorced;rent;Area_4;Area_4;21;c. 5-10 years;Public_Domain
+ABC0427;4;electronics;100;permanent_employee;a. Less 100;;married;own;Area_1;Area_1;29;b. 1-5 years;Public_Domain
+ABC0428;3;electronics;50;permanent_employee;d. 1000 - 2000;;married;own;Area_4;Area_4;46;c. 5-10 years;Public_Domain
+ABC0429;3;electronics;50;permanent_employee;a. Less 100;;married;own;Area_2;Area_2;20;d. More10 years;Public_Domain
+ABC0430;6;electronics;50;contract_employee;a. Less 100;;single;family_owned;Area_2;Area_4;55;d. More10 years;Public_Domain
+ABC0431;3;business_loan;100;self-employed;a. Less 100;;married;own;Area_1;Area_4;74;d. More10 years;Public_Domain
+ABC0432;4;food;300;unemployed;a. Less 100;;married;own;Area_2;Area_2;29;c. 5-10 years;Public_Domain
+ABC0433;1;household_appliances;50;unemployed;a. Less 100;;married;family_owned;Area_2;Area_3;36;d. More10 years;Public_Domain
+ABC0434;4;vacation;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_2;Area_2;33;b. 1-5 years;Public_Domain
+ABC0435;6;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_4;Area_4;25;b. 1-5 years;Public_Domain
+ABC0436;6;electronics;50;permanent_employee;e. More 2000;c. 1-4 years;divorced;own;Area_1;Area_1;25;a. Less1 year;Public_Domain
+ABC0437;1;vacation;50;self-employed;c. 500 - 1000;d. 4-7 years;divorced;rent;Area_2;Area_3;23;d. More10 years;Public_Domain
+ABC0438;4;food;50;permanent_employee;d. 1000 - 2000;e. More7 years;single;own;Area_2;Area_3;37;d. More10 years;Public_Domain
+ABC0439;6;vacation;100;contract_employee;a. Less 100;a. unemployed;married;own;Area_1;Area_4;65;d. More10 years;Professional_Domain
+ABC0440;1;business_loan;50;contract_employee;a. Less 100;b. Less1 years;single;own;Area_4;Area_4;26;a. Less1 year;Public_Domain
+ABC0441;6;electronics;50;unemployed;a. Less 100;e. More7 years;married;own;Area_3;Area_2;39;d. More10 years;Public_Domain
+ABC0442;1;household_appliances;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_1;Area_2;30;c. 5-10 years;Public_Domain
+ABC0443;3;household_appliances;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_4;29;c. 5-10 years;Public_Domain
+ABC0444;1;food;50;self-employed;a. Less 100;e. More7 years;married;own;Area_1;Area_4;41;d. More10 years;Public_Domain
+ABC0445;6;household_appliances;200;unemployed;a. Less 100;c. 1-4 years;single;own;Area_4;Area_2;30;c. 5-10 years;Professional_Domain
+ABC0446;2;food;50;self-employed;e. More 2000;e. More7 years;single;rent;Area_1;Area_1;41;d. More10 years;Public_Domain
+ABC0447;6;food;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_4;Area_4;34;d. More10 years;Public_Domain
+ABC0448;2;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_4;Area_1;35;b. 1-5 years;Public_Domain
+ABC0449;3;electronics;50;unemployed;e. More 2000;e. More7 years;single;own;Area_1;Area_2;55;d. More10 years;Public_Domain
+ABC0450;6;vacation;50;permanent_employee;d. 1000 - 2000;c. 1-4 years;divorced;own;Area_2;Area_4;61;c. 5-10 years;Public_Domain
+ABC0451;5;business_loan;300;unemployed;e. More 2000;c. 1-4 years;married;own;Area_1;Area_4;30;b. 1-5 years;Public_Domain
+ABC0452;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_3;Area_2;29;a. Less1 year;Public_Domain
+ABC0453;2;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_1;34;d. More10 years;Public_Domain
+ABC0454;6;business_loan;100;unemployed;a. Less 100;e. More7 years;married;own;Area_3;Area_4;35;d. More10 years;Public_Domain
+ABC0455;1;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_3;31;c. 5-10 years;Public_Domain
+ABC0456;6;business_loan;100;unemployed;a. Less 100;b. Less1 years;single;own;Area_3;Area_2;29;a. Less1 year;Public_Domain
+ABC0457;6;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;rent;Area_3;Area_3;36;b. 1-5 years;Public_Domain
+ABC0458;2;household_appliances;100;permanent_employee;;e. More7 years;married;family_owned;Area_3;Area_2;35;d. More10 years;Professional_Domain
+ABC0459;1;education;50;permanent_employee;;b. Less1 years;single;own;Area_2;Area_3;27;a. Less1 year;Public_Domain
+ABC0460;3;electronics;100;permanent_employee;;b. Less1 years;married;own;Area_1;Area_1;32;b. 1-5 years;Professional_Domain
+ABC0461;5;household_appliances;100;permanent_employee;;c. 1-4 years;married;own;Area_2;Area_4;37;b. 1-5 years;Professional_Domain
+ABC0462;3;electronics;50;permanent_employee;;b. Less1 years;married;own;Area_1;Area_2;36;c. 5-10 years;Public_Domain
+ABC0463;1;household_appliances;100;unemployed;a. Less 100;b. Less1 years;single;rent;Area_1;Area_3;34;a. Less1 year;Professional_Domain
+ABC0464;2;education;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_3;Area_4;38;d. More10 years;Public_Domain
+ABC0465;3;business_loan;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_4;34;a. Less1 year;Public_Domain
+ABC0466;4;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_3;63;d. More10 years;Public_Domain
+ABC0467;6;electronics;50;self-employed;a. Less 100;b. Less1 years;single;rent;Area_2;Area_2;29;b. 1-5 years;Public_Domain
+ABC0468;6;electronics;200;permanent_employee;e. More 2000;e. More7 years;married;own;Area_3;Area_2;32;c. 5-10 years;Public_Domain
+ABC0469;5;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_3;26;b. 1-5 years;Public_Domain
+ABC0470;4;business_loan;100;self-employed;a. Less 100;d. 4-7 years;married;own;Area_1;Area_2;35;c. 5-10 years;Public_Domain
+ABC0471;4;electronics;100;permanent_employee;b. 100 - 500;b. Less1 years;divorced;rent;Area_1;Area_4;22;b. 1-5 years;Professional_Domain
+ABC0472;1;food;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_2;Area_3;23;d. More10 years;Public_Domain
+ABC0473;6;food;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_1;Area_3;28;c. 5-10 years;Public_Domain
+ABC0474;1;education;50;unemployed;e. More 2000;a. unemployed;married;own;Area_4;Area_2;36;d. More10 years;Public_Domain
+ABC0475;3;vacation;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_3;Area_3;33;b. 1-5 years;Public_Domain
+ABC0476;1;electronics;100;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_2;Area_3;26;d. More10 years;Public_Domain
+ABC0477;5;business_loan;100;permanent_employee;c. 500 - 1000;c. 1-4 years;married;own;Area_2;Area_4;24;d. More10 years;Public_Domain
+ABC0478;4;electronics;200;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_3;25;b. 1-5 years;Professional_Domain
+ABC0479;1;business_loan;50;self-employed;b. 100 - 500;d. 4-7 years;married;own;Area_2;Area_2;39;d. More10 years;Public_Domain
+ABC0480;3;food;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_2;44;d. More10 years;Public_Domain
+ABC0481;1;education;100;self-employed;a. Less 100;c. 1-4 years;single;own;Area_1;Area_1;23;a. Less1 year;Professional_Domain
+ABC0482;4;electronics;50;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_3;Area_2;26;a. Less1 year;Public_Domain
+ABC0483;3;electronics;100;permanent_employee;d. 1000 - 2000;e. More7 years;single;rent;Area_1;Area_3;57;d. More10 years;Professional_Domain
+ABC0484;3;electronics;50;permanent_employee;d. 1000 - 2000;d. 4-7 years;single;own;Area_2;Area_1;30;b. 1-5 years;Public_Domain
+ABC0485;1;electronics;50;permanent_employee;c. 500 - 1000;c. 1-4 years;married;own;Area_2;Area_4;44;d. More10 years;Public_Domain
+ABC0486;6;electronics;50;unemployed;a. Less 100;a. unemployed;married;own;Area_4;Area_2;47;d. More10 years;Public_Domain
+ABC0487;1;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_2;52;d. More10 years;Professional_Domain
+ABC0488;1;electronics;100;permanent_employee;a. Less 100;e. More7 years;single;family_owned;Area_3;Area_2;62;d. More10 years;Professional_Domain
+ABC0489;6;electronics;50;self-employed;b. 100 - 500;c. 1-4 years;married;rent;Area_2;Area_1;35;b. 1-5 years;Public_Domain
+ABC0490;6;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;rent;Area_3;Area_4;26;c. 5-10 years;Public_Domain
+ABC0491;3;electronics;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_1;Area_3;26;b. 1-5 years;Public_Domain
+ABC0492;4;business_loan;200;unemployed;a. Less 100;e. More7 years;single;family_owned;Area_1;Area_2;42;d. More10 years;Public_Domain
+ABC0493;1;electronics;50;permanent_employee;b. 100 - 500;c. 1-4 years;single;own;Area_2;Area_2;27;a. Less1 year;Public_Domain
+ABC0494;1;electronics;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_1;38;d. More10 years;Public_Domain
+ABC0495;6;electronics;100;self-employed;a. Less 100;c. 1-4 years;married;rent;Area_2;Area_2;39;b. 1-5 years;Public_Domain
+ABC0496;4;electronics;100;permanent_employee;e. More 2000;c. 1-4 years;divorced;own;Area_3;Area_1;20;d. More10 years;Public_Domain
+ABC0497;5;household_appliances;200;unemployed;b. 100 - 500;b. Less1 years;married;rent;Area_2;Area_3;29;a. Less1 year;Public_Domain
+ABC0498;4;household_appliances;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_4;40;c. 5-10 years;Public_Domain
+ABC0499;3;electronics;50;self-employed;a. Less 100;e. More7 years;divorced;own;Area_1;Area_3;32;b. 1-5 years;Public_Domain
+ABC0500;6;electronics;50;permanent_employee;b. 100 - 500;e. More7 years;divorced;own;Area_3;Area_2;28;d. More10 years;Public_Domain
+ABC0501;1;electronics;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_2;Area_3;27;a. Less1 year;Public_Domain
+ABC0502;5;business_loan;200;permanent_employee;a. Less 100;e. More7 years;married;family_owned;Area_3;Area_2;42;d. More10 years;Professional_Domain
+ABC0503;2;electronics;50;permanent_employee;b. 100 - 500;e. More7 years;divorced;own;Area_4;Area_4;49;d. More10 years;Public_Domain
+ABC0504;6;electronics;50;permanent_employee;b. 100 - 500;b. Less1 years;married;own;Area_2;Area_4;38;d. More10 years;Public_Domain
+ABC0505;1;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_1;Area_1;24;d. More10 years;Public_Domain
+ABC0506;1;electronics;50;self-employed;e. More 2000;c. 1-4 years;married;own;Area_1;Area_4;27;d. More10 years;Public_Domain
+ABC0507;3;business_loan;100;permanent_employee;c. 500 - 1000;c. 1-4 years;married;own;Area_1;Area_2;36;b. 1-5 years;Public_Domain
+ABC0508;1;electronics;200;unemployed;b. 100 - 500;a. unemployed;married;own;Area_1;Area_3;34;b. 1-5 years;Professional_Domain
+ABC0509;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_3;Area_2;28;b. 1-5 years;Public_Domain
+ABC0510;5;business_loan;200;unemployed;b. 100 - 500;e. More7 years;married;own;Area_2;Area_3;45;b. 1-5 years;Professional_Domain
+ABC0511;6;business_loan;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_4;26;b. 1-5 years;Public_Domain
+ABC0512;5;business_loan;100;unemployed;a. Less 100;c. 1-4 years;married;family_owned;Area_1;Area_4;32;b. 1-5 years;Public_Domain
+ABC0513;3;business_loan;100;permanent_employee;a. Less 100;d. 4-7 years;married;rent;Area_3;Area_2;26;d. More10 years;Public_Domain
+ABC0514;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;rent;Area_3;Area_1;20;d. More10 years;Public_Domain
+ABC0515;4;vacation;100;permanent_employee;e. More 2000;b. Less1 years;married;own;Area_3;Area_3;54;a. Less1 year;Public_Domain
+ABC0516;1;electronics;50;permanent_employee;a. Less 100;d. 4-7 years;single;own;Area_3;Area_4;37;c. 5-10 years;Public_Domain
+ABC0517;1;electronics;50;self-employed;a. Less 100;b. Less1 years;married;own;Area_3;Area_1;40;d. More10 years;Public_Domain
+ABC0518;5;household_appliances;200;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_1;Area_3;23;d. More10 years;Public_Domain
+ABC0519;3;electronics;50;permanent_employee;b. 100 - 500;e. More7 years;married;own;Area_3;Area_4;43;b. 1-5 years;Public_Domain
+ABC0520;1;electronics;50;permanent_employee;e. More 2000;e. More7 years;married;family_owned;Area_4;Area_1;36;d. More10 years;Public_Domain
+ABC0521;4;vacation;200;permanent_employee;a. Less 100;e. More7 years;married;family_owned;Area_1;Area_1;44;d. More10 years;Public_Domain
+ABC0522;3;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_3;Area_2;24;b. 1-5 years;Public_Domain
+ABC0523;6;electronics;200;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_2;Area_2;53;d. More10 years;Public_Domain
+ABC0524;6;business_loan;100;permanent_employee;b. 100 - 500;d. 4-7 years;single;own;Area_2;Area_4;23;d. More10 years;Professional_Domain
+ABC0525;3;electronics;50;self-employed;a. Less 100;c. 1-4 years;single;own;Area_2;Area_1;26;d. More10 years;Public_Domain
+ABC0526;3;business_loan;200;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_1;Area_2;30;c. 5-10 years;Professional_Domain
+ABC0527;1;education;50;;;;;;Area_2;Area_1;;;Public_Domain
+ABC0528;1;electronics;50;self-employed;a. Less 100;d. 4-7 years;married;own;Area_2;Area_2;42;a. Less1 year;Public_Domain
+ABC0529;1;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;rent;Area_1;Area_2;31;d. More10 years;Public_Domain
+ABC0530;3;electronics;50;self-employed;a. Less 100;b. Less1 years;married;own;Area_2;Area_1;41;d. More10 years;Public_Domain
+ABC0531;5;food;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_1;32;a. Less1 year;Public_Domain
+ABC0532;3;education;100;permanent_employee;b. 100 - 500;c. 1-4 years;single;rent;Area_2;Area_4;28;d. More10 years;Public_Domain
+ABC0533;2;business_loan;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;rent;Area_3;Area_3;41;d. More10 years;Public_Domain
+ABC0534;4;household_appliances;50;permanent_employee;b. 100 - 500;d. 4-7 years;divorced;own;Area_2;Area_2;26;c. 5-10 years;Public_Domain
+ABC0535;6;electronics;100;permanent_employee;e. More 2000;b. Less1 years;married;own;Area_1;Area_1;25;b. 1-5 years;Professional_Domain
+ABC0536;1;food;100;permanent_employee;a. Less 100;b. Less1 years;divorced;rent;Area_3;Area_2;33;a. Less1 year;Public_Domain
+ABC0537;1;electronics;50;unemployed;e. More 2000;a. unemployed;single;own;Area_3;Area_3;75;c. 5-10 years;Public_Domain
+ABC0538;3;electronics;100;;a. Less 100;e. More7 years;single;own;Area_2;Area_4;37;d. More10 years;Professional_Domain
+ABC0539;6;food;200;unemployed;a. Less 100;e. More7 years;married;family_owned;Area_3;Area_4;42;d. More10 years;Public_Domain
+ABC0540;3;electronics;100;;a. Less 100;b. Less1 years;single;own;Area_3;Area_3;45;a. Less1 year;Professional_Domain
+ABC0541;1;education;50;;a. Less 100;b. Less1 years;divorced;rent;Area_3;Area_3;23;a. Less1 year;Public_Domain
+ABC0542;1;education;100;;a. Less 100;e. More7 years;married;family_owned;Area_2;Area_1;60;d. More10 years;Public_Domain
+ABC0543;1;electronics;200;;e. More 2000;e. More7 years;married;own;Area_1;Area_4;31;d. More10 years;Public_Domain
+ABC0544;3;electronics;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_3;Area_3;34;a. Less1 year;Public_Domain
+ABC0545;6;education;50;;a. Less 100;e. More7 years;married;own;Area_1;Area_3;61;d. More10 years;Public_Domain
+ABC0546;4;electronics;50;permanent_employee;a. Less 100;a. unemployed;;family_owned;Area_2;Area_1;43;b. 1-5 years;Public_Domain
+ABC0547;4;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_1;37;d. More10 years;Public_Domain
+ABC0548;6;electronics;50;permanent_employee;a. Less 100;d. 4-7 years;;own;Area_2;Area_3;32;a. Less1 year;Public_Domain
+ABC0549;6;electronics;50;self-employed;a. Less 100;c. 1-4 years;single;own;Area_3;Area_3;24;d. More10 years;Public_Domain
+ABC0550;6;business_loan;200;permanent_employee;e. More 2000;d. 4-7 years;married;;Area_2;Area_3;35;a. Less1 year;Public_Domain
+ABC0551;2;vacation;50;permanent_employee;e. More 2000;d. 4-7 years;single;own;Area_2;Area_2;23;d. More10 years;Public_Domain
+ABC0552;1;electronics;50;self-employed;c. 500 - 1000;e. More7 years;married;own;Area_2;Area_4;45;d. More10 years;Public_Domain
+ABC0553;6;electronics;200;permanent_employee;a. Less 100;d. 4-7 years;divorced;own;Area_1;Area_2;34;a. Less1 year;Public_Domain
+ABC0554;6;food;50;permanent_employee;b. 100 - 500;;married;own;Area_1;Area_1;27;a. Less1 year;Public_Domain
+ABC0555;1;food;50;;a. Less 100;;single;own;Area_1;Area_3;67;d. More10 years;Public_Domain
+ABC0556;6;electronics;50;permanent_employee;a. Less 100;;married;own;Area_2;Area_4;22;a. Less1 year;Public_Domain
+ABC0557;3;food;100;permanent_employee;b. 100 - 500;;single;own;Area_4;Area_2;28;c. 5-10 years;Public_Domain
+ABC0558;6;food;200;permanent_employee;e. More 2000;;single;own;Area_2;Area_2;29;d. More10 years;Professional_Domain
+ABC0559;6;electronics;100;permanent_employee;a. Less 100;;married;own;Area_1;Area_2;27;d. More10 years;Public_Domain
+ABC0560;3;electronics;50;self-employed;a. Less 100;;married;own;Area_3;Area_3;31;b. 1-5 years;Public_Domain
+ABC0561;3;business_loan;100;permanent_employee;e. More 2000;e. More7 years;married;family_owned;Area_4;Area_4;49;d. More10 years;Public_Domain
+ABC0562;3;household_appliances;50;self-employed;a. Less 100;d. 4-7 years;married;rent;Area_1;Area_4;24;d. More10 years;Public_Domain
+ABC0563;1;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_1;Area_2;29;a. Less1 year;Public_Domain
+ABC0564;1;education;300;permanent_employee;e. More 2000;c. 1-4 years;married;family_owned;Area_2;Area_2;37;d. More10 years;Professional_Domain
+ABC0565;4;business_loan;100;unemployed;e. More 2000;c. 1-4 years;married;own;Area_1;Area_4;37;b. 1-5 years;Professional_Domain
+ABC0566;1;household_appliances;50;permanent_employee;b. 100 - 500;d. 4-7 years;single;rent;Area_3;Area_3;23;b. 1-5 years;Public_Domain
+ABC0567;1;food;50;permanent_employee;a. Less 100;d. 4-7 years;divorced;own;Area_1;Area_3;36;c. 5-10 years;Public_Domain
+ABC0568;3;household_appliances;100;permanent_employee;d. 1000 - 2000;e. More7 years;married;own;Area_3;Area_2;34;b. 1-5 years;Public_Domain
+ABC0569;6;household_appliances;100;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_2;Area_4;41;a. Less1 year;Professional_Domain
+ABC0570;1;household_appliances;200;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_3;Area_2;31;b. 1-5 years;Professional_Domain
+ABC0571;4;electronics;100;self-employed;a. Less 100;b. Less1 years;single;rent;Area_1;Area_4;23;d. More10 years;Professional_Domain
+ABC0572;5;household_appliances;200;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_2;38;b. 1-5 years;Professional_Domain
+ABC0573;4;business_loan;200;unemployed;e. More 2000;a. unemployed;single;rent;Area_2;Area_2;26;d. More10 years;Professional_Domain
+ABC0574;3;business_loan;50;self-employed;a. Less 100;c. 1-4 years;single;own;Area_1;Area_3;22;d. More10 years;Public_Domain
+ABC0575;6;vacation;50;self-employed;a. Less 100;e. More7 years;married;own;Area_4;Area_2;27;d. More10 years;Public_Domain
+ABC0576;3;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;single;own;Area_4;Area_4;24;c. 5-10 years;Public_Domain
+ABC0577;6;education;100;permanent_employee;a. Less 100;d. 4-7 years;single;own;Area_2;Area_3;27;a. Less1 year;Public_Domain
+ABC0578;1;food;50;permanent_employee;e. More 2000;c. 1-4 years;single;own;Area_1;Area_2;33;b. 1-5 years;Public_Domain
+ABC0579;1;household_appliances;100;;a. Less 100;b. Less1 years;divorced;own;Area_1;Area_2;27;d. More10 years;Public_Domain
+ABC0580;4;education;50;self-employed;a. Less 100;b. Less1 years;divorced;own;Area_1;Area_4;27;c. 5-10 years;Public_Domain
+ABC0581;6;household_appliances;50;permanent_employee;a. Less 100;e. More7 years;married;;Area_3;Area_2;30;c. 5-10 years;Public_Domain
+ABC0582;6;household_appliances;100;self-employed;a. Less 100;b. Less1 years;married;own;Area_2;Area_4;49;c. 5-10 years;Professional_Domain
+ABC0583;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_2;Area_2;26;b. 1-5 years;Public_Domain
+ABC0584;5;vacation;100;self-employed;a. Less 100;b. Less1 years;married;rent;Area_2;Area_4;33;a. Less1 year;Public_Domain
+ABC0585;6;education;100;unemployed;e. More 2000;e. More7 years;single;family_owned;Area_4;Area_1;52;d. More10 years;Public_Domain
+ABC0586;1;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_1;Area_2;20;d. More10 years;Public_Domain
+ABC0587;3;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;rent;Area_1;Area_2;36;b. 1-5 years;Public_Domain
+ABC0588;2;electronics;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_4;Area_2;21;a. Less1 year;Public_Domain
+ABC0589;3;household_appliances;50;self-employed;a. Less 100;c. 1-4 years;divorced;own;Area_1;Area_2;47;c. 5-10 years;Public_Domain
+ABC0590;2;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_4;60;c. 5-10 years;Public_Domain
+ABC0591;3;education;50;self-employed;a. Less 100;d. 4-7 years;single;own;Area_3;Area_3;58;c. 5-10 years;Public_Domain
+ABC0592;4;education;50;permanent_employee;e. More 2000;c. 1-4 years;single;rent;Area_4;Area_2;42;d. More10 years;Public_Domain
+ABC0593;3;business_loan;50;self-employed;d. 1000 - 2000;e. More7 years;single;own;Area_2;Area_2;36;d. More10 years;Public_Domain
+ABC0594;4;food;100;self-employed;a. Less 100;c. 1-4 years;single;rent;Area_4;Area_4;20;d. More10 years;Public_Domain
+ABC0595;6;electronics;50;unemployed;e. More 2000;e. More7 years;married;own;Area_3;Area_2;40;c. 5-10 years;Public_Domain
+ABC0596;1;education;50;self-employed;b. 100 - 500;b. Less1 years;single;own;Area_1;Area_2;32;a. Less1 year;Public_Domain
+ABC0597;3;education;50;permanent_employee;a. Less 100;d. 4-7 years;single;rent;Area_4;Area_1;23;d. More10 years;Public_Domain
+ABC0598;3;business_loan;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_4;Area_3;36;d. More10 years;Public_Domain
+ABC0599;3;education;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_3;31;b. 1-5 years;Public_Domain
+ABC0600;4;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_2;Area_1;32;b. 1-5 years;Professional_Domain
+ABC0601;3;vacation;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_1;Area_4;45;a. Less1 year;Public_Domain
+ABC0602;2;household_appliances;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_1;Area_2;30;a. Less1 year;Public_Domain
+ABC0603;4;food;50;self-employed;a. Less 100;d. 4-7 years;single;family_owned;Area_2;Area_4;34;d. More10 years;Public_Domain
+ABC0604;1;electronics;100;unemployed;a. Less 100;c. 1-4 years;single;own;Area_3;Area_3;28;b. 1-5 years;Public_Domain
+ABC0605;3;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_1;Area_3;23;b. 1-5 years;Public_Domain
+ABC0606;4;electronics;100;permanent_employee;c. 500 - 1000;c. 1-4 years;married;own;Area_4;Area_2;22;d. More10 years;Public_Domain
+ABC0607;4;business_loan;100;unemployed;a. Less 100;c. 1-4 years;married;own;Area_3;Area_4;74;b. 1-5 years;Public_Domain
+ABC0608;5;electronics;100;permanent_employee;b. 100 - 500;c. 1-4 years;single;family_owned;Area_4;Area_3;50;d. More10 years;Public_Domain
+ABC0609;3;electronics;100;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_2;Area_3;33;a. Less1 year;Public_Domain
+ABC0610;3;business_loan;50;permanent_employee;e. More 2000;e. More7 years;married;family_owned;Area_2;Area_3;45;d. More10 years;Public_Domain
+ABC0611;6;household_appliances;50;permanent_employee;b. 100 - 500;a. unemployed;single;own;Area_1;Area_2;22;c. 5-10 years;Public_Domain
+ABC0612;1;electronics;50;self-employed;b. 100 - 500;e. More7 years;single;family_owned;Area_1;Area_4;48;d. More10 years;Public_Domain
+ABC0613;3;electronics;100;permanent_employee;d. 1000 - 2000;b. Less1 years;single;own;Area_2;Area_3;29;b. 1-5 years;Public_Domain
+ABC0614;4;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_2;Area_1;22;d. More10 years;Professional_Domain
+ABC0615;3;electronics;50;permanent_employee;a. Less 100;d. 4-7 years;single;own;Area_4;Area_3;22;a. Less1 year;Public_Domain
+ABC0616;6;business_loan;300;unemployed;e. More 2000;c. 1-4 years;married;own;Area_1;Area_1;48;b. 1-5 years;Professional_Domain
+ABC0617;6;electronics;200;unemployed;e. More 2000;c. 1-4 years;married;family_owned;Area_4;Area_2;27;b. 1-5 years;Public_Domain
+ABC0618;1;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;rent;Area_4;Area_4;37;c. 5-10 years;Professional_Domain
+ABC0619;1;electronics;100;permanent_employee;b. 100 - 500;c. 1-4 years;single;rent;Area_3;Area_2;21;d. More10 years;Professional_Domain
+ABC0620;6;household_appliances;50;self-employed;a. Less 100;c. 1-4 years;divorced;own;Area_2;Area_2;49;b. 1-5 years;Public_Domain
+ABC0621;3;business_loan;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_3;27;c. 5-10 years;Professional_Domain
+ABC0622;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_4;32;b. 1-5 years;Public_Domain
+ABC0623;6;business_loan;100;permanent_employee;e. More 2000;c. 1-4 years;divorced;own;Area_3;Area_3;38;b. 1-5 years;Public_Domain
+ABC0624;2;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_1;Area_4;22;a. Less1 year;Public_Domain
+ABC0625;3;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_2;Area_4;65;d. More10 years;Public_Domain
+ABC0626;3;electronics;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_1;Area_3;35;b. 1-5 years;Public_Domain
+ABC0627;1;household_appliances;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_3;Area_2;41;b. 1-5 years;Public_Domain
+ABC0628;1;education;50;permanent_employee;b. 100 - 500;d. 4-7 years;married;own;Area_2;Area_4;29;c. 5-10 years;Public_Domain
+ABC0629;6;electronics;100;permanent_employee;c. 500 - 1000;c. 1-4 years;married;own;Area_1;Area_3;36;d. More10 years;Professional_Domain
+ABC0630;6;food;100;self-employed;e. More 2000;e. More7 years;married;own;Area_4;Area_2;64;d. More10 years;Professional_Domain
+ABC0631;1;education;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_2;28;d. More10 years;Public_Domain
+ABC0632;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_4;44;c. 5-10 years;Public_Domain
+ABC0633;3;education;50;permanent_employee;e. More 2000;b. Less1 years;married;own;Area_1;Area_2;23;a. Less1 year;Public_Domain
+ABC0634;1;vacation;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_2;Area_1;19;b. 1-5 years;Public_Domain
+ABC0635;1;household_appliances;50;self-employed;a. Less 100;b. Less1 years;single;own;Area_1;Area_2;25;d. More10 years;Public_Domain
+ABC0636;6;food;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_4;Area_4;47;d. More10 years;Public_Domain
+ABC0637;4;electronics;50;permanent_employee;c. 500 - 1000;d. 4-7 years;single;own;Area_4;Area_1;28;a. Less1 year;Public_Domain
+ABC0638;6;household_appliances;300;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_4;21;d. More10 years;Professional_Domain
+ABC0639;6;household_appliances;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_3;Area_2;34;c. 5-10 years;Public_Domain
+ABC0640;1;household_appliances;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_4;Area_2;26;b. 1-5 years;Public_Domain
+ABC0641;3;food;50;contract_employee;a. Less 100;a. unemployed;single;own;Area_4;Area_2;27;a. Less1 year;Public_Domain
+ABC0642;6;vacation;50;self-employed;a. Less 100;e. More7 years;married;own;Area_2;Area_3;38;d. More10 years;Public_Domain
+ABC0643;3;food;100;unemployed;b. 100 - 500;c. 1-4 years;married;own;Area_2;Area_1;40;b. 1-5 years;Public_Domain
+ABC0644;1;household_appliances;50;permanent_employee;a. Less 100;d. 4-7 years;divorced;own;Area_1;Area_2;33;b. 1-5 years;Public_Domain
+ABC0645;1;electronics;50;unemployed;a. Less 100;d. 4-7 years;divorced;own;Area_1;Area_1;32;a. Less1 year;Public_Domain
+ABC0646;5;business_loan;200;permanent_employee;e. More 2000;b. Less1 years;married;rent;Area_1;Area_3;27;d. More10 years;Professional_Domain
+ABC0647;5;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_1;Area_3;32;b. 1-5 years;Public_Domain
+ABC0648;6;electronics;50;permanent_employee;c. 500 - 1000;c. 1-4 years;single;own;Area_2;Area_3;26;b. 1-5 years;Public_Domain
+ABC0649;1;food;50;permanent_employee;a. Less 100;d. 4-7 years;married;family_owned;Area_3;Area_3;38;c. 5-10 years;Public_Domain
+ABC0650;1;food;50;self-employed;a. Less 100;c. 1-4 years;married;rent;Area_4;Area_2;40;d. More10 years;Public_Domain
+ABC0651;6;food;200;unemployed;a. Less 100;d. 4-7 years;married;family_owned;Area_1;Area_1;50;a. Less1 year;Professional_Domain
+ABC0652;3;electronics;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_2;Area_3;37;b. 1-5 years;Public_Domain
+ABC0653;1;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_1;Area_3;45;a. Less1 year;Public_Domain
+ABC0654;5;electronics;200;unemployed;b. 100 - 500;e. More7 years;married;own;Area_3;Area_3;42;d. More10 years;Public_Domain
+ABC0655;4;business_loan;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_4;35;c. 5-10 years;Public_Domain
+ABC0656;6;electronics;100;permanent_employee;a. Less 100;a. unemployed;married;family_owned;Area_3;Area_2;22;d. More10 years;Professional_Domain
+ABC0657;6;electronics;50;self-employed;a. Less 100;e. More7 years;married;own;Area_2;Area_1;41;d. More10 years;Public_Domain
+ABC0658;6;household_appliances;300;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_1;Area_4;37;c. 5-10 years;Professional_Domain
+ABC0659;5;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_3;Area_4;28;a. Less1 year;Public_Domain
+ABC0660;3;electronics;200;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_1;41;a. Less1 year;Professional_Domain
+ABC0661;1;household_appliances;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;rent;Area_1;Area_1;23;d. More10 years;Public_Domain
+ABC0662;6;vacation;50;permanent_employee;e. More 2000;c. 1-4 years;divorced;own;Area_2;Area_4;23;b. 1-5 years;Public_Domain
+ABC0663;3;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_3;50;b. 1-5 years;Public_Domain
+ABC0664;1;vacation;50;unemployed;a. Less 100;a. unemployed;married;own;Area_1;Area_2;35;a. Less1 year;Public_Domain
+ABC0665;6;food;50;self-employed;a. Less 100;c. 1-4 years;single;own;Area_2;Area_1;50;d. More10 years;Public_Domain
+ABC0666;4;household_appliances;200;unemployed;a. Less 100;a. unemployed;married;own;Area_1;Area_1;27;b. 1-5 years;Public_Domain
+ABC0667;1;electronics;100;permanent_employee;d. 1000 - 2000;c. 1-4 years;married;own;Area_3;Area_1;34;b. 1-5 years;Public_Domain
+ABC0668;6;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_4;27;a. Less1 year;Professional_Domain
+ABC0669;6;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;rent;Area_1;Area_2;43;d. More10 years;Public_Domain
+ABC0670;5;household_appliances;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_1;Area_3;47;d. More10 years;Public_Domain
+ABC0671;4;business_loan;100;self-employed;b. 100 - 500;c. 1-4 years;married;own;Area_1;Area_4;27;c. 5-10 years;Professional_Domain
+ABC0672;5;business_loan;200;permanent_employee;b. 100 - 500;d. 4-7 years;married;own;Area_3;Area_2;31;b. 1-5 years;Professional_Domain
+ABC0673;6;electronics;300;unemployed;a. Less 100;e. More7 years;married;own;Area_4;Area_4;42;d. More10 years;Professional_Domain
+ABC0674;1;education;100;permanent_employee;c. 500 - 1000;c. 1-4 years;divorced;own;Area_4;Area_2;24;b. 1-5 years;Public_Domain
+ABC0675;3;business_loan;100;self-employed;c. 500 - 1000;b. Less1 years;married;own;Area_4;Area_4;41;b. 1-5 years;Public_Domain
+ABC0676;5;household_appliances;100;unemployed;a. Less 100;d. 4-7 years;single;rent;Area_2;Area_1;26;d. More10 years;Public_Domain
+ABC0677;1;electronics;200;permanent_employee;a. Less 100;e. More7 years;married;own;Area_1;Area_4;33;d. More10 years;Public_Domain
+ABC0678;1;electronics;200;permanent_employee;b. 100 - 500;c. 1-4 years;divorced;own;Area_4;Area_3;24;b. 1-5 years;Public_Domain
+ABC0679;4;electronics;100;self-employed;a. Less 100;e. More7 years;married;rent;Area_4;Area_4;64;d. More10 years;Public_Domain
+ABC0680;3;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_2;Area_1;26;a. Less1 year;Public_Domain
+ABC0681;3;food;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_3;Area_3;56;b. 1-5 years;Public_Domain
+ABC0682;2;electronics;100;permanent_employee;e. More 2000;c. 1-4 years;married;family_owned;Area_1;Area_1;37;d. More10 years;Public_Domain
+ABC0683;3;household_appliances;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_2;Area_3;33;c. 5-10 years;Public_Domain
+ABC0684;4;household_appliances;200;permanent_employee;a. Less 100;b. Less1 years;divorced;family_owned;Area_2;Area_3;47;c. 5-10 years;Public_Domain
+ABC0685;5;business_loan;200;self-employed;b. 100 - 500;d. 4-7 years;married;own;Area_3;Area_3;31;c. 5-10 years;Professional_Domain
+ABC0686;6;vacation;200;permanent_employee;e. More 2000;c. 1-4 years;married;family_owned;Area_2;Area_4;34;d. More10 years;Professional_Domain
+ABC0687;2;electronics;50;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_2;Area_1;27;b. 1-5 years;Public_Domain
+ABC0688;5;vacation;100;permanent_employee;b. 100 - 500;e. More7 years;married;family_owned;Area_4;Area_1;30;c. 5-10 years;Public_Domain
+ABC0689;1;vacation;100;permanent_employee;b. 100 - 500;e. More7 years;married;own;Area_2;Area_2;35;d. More10 years;Public_Domain
+ABC0690;6;food;100;permanent_employee;d. 1000 - 2000;c. 1-4 years;married;own;Area_2;Area_2;31;c. 5-10 years;Professional_Domain
+ABC0691;3;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_3;Area_1;25;c. 5-10 years;Public_Domain
+ABC0692;6;vacation;100;self-employed;b. 100 - 500;c. 1-4 years;single;own;Area_2;Area_3;25;b. 1-5 years;Public_Domain
+ABC0693;6;electronics;100;permanent_employee;b. 100 - 500;b. Less1 years;married;own;Area_2;Area_3;29;a. Less1 year;Public_Domain
+ABC0694;1;education;100;self-employed;e. More 2000;b. Less1 years;married;own;Area_1;Area_2;44;c. 5-10 years;Public_Domain
+ABC0695;1;household_appliances;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_1;Area_1;28;b. 1-5 years;Public_Domain
+ABC0696;1;business_loan;50;permanent_employee;c. 500 - 1000;c. 1-4 years;married;rent;Area_2;Area_2;50;d. More10 years;Public_Domain
+ABC0697;6;household_appliances;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_4;Area_2;29;c. 5-10 years;Public_Domain
+ABC0698;6;food;50;contract_employee;a. Less 100;a. unemployed;single;own;Area_1;Area_2;38;b. 1-5 years;Public_Domain
+ABC0699;3;household_appliances;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_3;Area_3;24;b. 1-5 years;Public_Domain
+ABC0700;3;food;50;unemployed;a. Less 100;e. More7 years;married;rent;Area_1;Area_3;40;d. More10 years;Public_Domain
+ABC0701;2;electronics;50;self-employed;c. 500 - 1000;c. 1-4 years;single;rent;Area_3;Area_4;29;d. More10 years;Public_Domain
+ABC0702;6;business_loan;200;permanent_employee;a. Less 100;e. More7 years;married;family_owned;Area_1;Area_3;46;d. More10 years;Public_Domain
+ABC0703;4;household_appliances;50;permanent_employee;b. 100 - 500;e. More7 years;single;family_owned;Area_1;Area_4;47;b. 1-5 years;Public_Domain
+ABC0704;5;business_loan;100;permanent_employee;b. 100 - 500;e. More7 years;married;own;Area_2;Area_2;41;b. 1-5 years;Public_Domain
+ABC0705;4;business_loan;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_3;Area_2;32;a. Less1 year;Public_Domain
+ABC0706;3;education;200;permanent_employee;c. 500 - 1000;e. More7 years;single;family_owned;Area_2;Area_2;35;d. More10 years;Public_Domain
+ABC0707;1;household_appliances;200;permanent_employee;b. 100 - 500;d. 4-7 years;married;own;Area_1;Area_2;24;b. 1-5 years;Professional_Domain
+ABC0708;1;electronics;100;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_1;Area_4;25;c. 5-10 years;Public_Domain
+ABC0709;1;food;50;permanent_employee;a. Less 100;e. More7 years;single;own;Area_1;Area_2;25;d. More10 years;Public_Domain
+ABC0710;6;food;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_1;Area_4;37;b. 1-5 years;Public_Domain
+ABC0711;1;electronics;50;unemployed;c. 500 - 1000;e. More7 years;married;own;Area_1;Area_4;32;c. 5-10 years;Public_Domain
+ABC0712;3;food;50;permanent_employee;a. Less 100;e. More7 years;single;family_owned;Area_1;Area_2;35;d. More10 years;Public_Domain
+ABC0713;3;business_loan;100;unemployed;e. More 2000;e. More7 years;married;own;Area_1;Area_1;46;d. More10 years;Public_Domain
+ABC0714;2;electronics;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_1;Area_2;25;d. More10 years;Public_Domain
+ABC0715;6;food;300;unemployed;a. Less 100;d. 4-7 years;married;own;Area_4;Area_4;27;b. 1-5 years;Public_Domain
+ABC0716;5;business_loan;200;permanent_employee;e. More 2000;e. More7 years;married;own;Area_1;Area_3;63;d. More10 years;Professional_Domain
+ABC0717;5;electronics;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_4;40;b. 1-5 years;Professional_Domain
+ABC0718;3;electronics;50;unemployed;a. Less 100;c. 1-4 years;married;family_owned;Area_4;Area_4;32;b. 1-5 years;Public_Domain
+ABC0719;6;electronics;100;permanent_employee;e. More 2000;c. 1-4 years;married;own;Area_2;Area_1;31;b. 1-5 years;Public_Domain
+ABC0720;3;business_loan;200;permanent_employee;b. 100 - 500;e. More7 years;divorced;own;Area_2;Area_2;31;d. More10 years;Professional_Domain
+ABC0721;2;electronics;50;unemployed;a. Less 100;b. Less1 years;married;own;Area_1;Area_2;34;b. 1-5 years;Public_Domain
+ABC0722;6;food;50;permanent_employee;d. 1000 - 2000;b. Less1 years;single;rent;Area_2;Area_4;24;b. 1-5 years;Public_Domain
+ABC0723;2;household_appliances;50;self-employed;a. Less 100;c. 1-4 years;single;own;Area_3;Area_3;24;b. 1-5 years;Public_Domain
+ABC0724;6;food;50;self-employed;c. 500 - 1000;c. 1-4 years;single;own;Area_4;Area_1;66;c. 5-10 years;Public_Domain
+ABC0725;4;household_appliances;100;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_3;Area_1;21;c. 5-10 years;Public_Domain
+ABC0726;1;education;50;self-employed;d. 1000 - 2000;c. 1-4 years;single;own;Area_3;Area_1;41;b. 1-5 years;Public_Domain
+ABC0727;3;vacation;50;self-employed;c. 500 - 1000;c. 1-4 years;divorced;own;Area_1;Area_4;47;b. 1-5 years;Public_Domain
+ABC0728;3;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_4;Area_4;25;d. More10 years;Public_Domain
+ABC0729;6;household_appliances;200;permanent_employee;a. Less 100;e. More7 years;single;rent;Area_2;Area_3;59;c. 5-10 years;Professional_Domain
+ABC0730;4;business_loan;50;permanent_employee;d. 1000 - 2000;c. 1-4 years;divorced;own;Area_1;Area_2;36;d. More10 years;Public_Domain
+ABC0731;4;electronics;200;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_2;Area_2;33;b. 1-5 years;Professional_Domain
+ABC0732;3;electronics;50;self-employed;a. Less 100;c. 1-4 years;married;rent;Area_1;Area_3;21;d. More10 years;Public_Domain
+ABC0733;6;electronics;50;self-employed;a. Less 100;d. 4-7 years;single;own;Area_1;Area_1;44;b. 1-5 years;Public_Domain
+ABC0734;4;business_loan;100;permanent_employee;d. 1000 - 2000;c. 1-4 years;single;rent;Area_4;Area_2;28;d. More10 years;Public_Domain
+ABC0735;1;education;100;permanent_employee;a. Less 100;d. 4-7 years;single;own;Area_1;Area_1;37;a. Less1 year;Professional_Domain
+ABC0736;5;household_appliances;100;contract_employee;e. More 2000;b. Less1 years;single;own;Area_2;Area_3;29;b. 1-5 years;Professional_Domain
+ABC0737;4;business_loan;300;unemployed;a. Less 100;c. 1-4 years;single;rent;Area_4;Area_3;23;d. More10 years;Public_Domain
+ABC0738;6;food;100;self-employed;b. 100 - 500;c. 1-4 years;married;own;Area_2;Area_2;35;d. More10 years;Professional_Domain
+ABC0739;1;education;200;unemployed;a. Less 100;d. 4-7 years;married;own;Area_2;Area_2;45;c. 5-10 years;Professional_Domain
+ABC0740;1;business_loan;100;self-employed;b. 100 - 500;c. 1-4 years;single;rent;Area_3;Area_2;26;d. More10 years;Public_Domain
+ABC0741;6;household_appliances;100;permanent_employee;b. 100 - 500;d. 4-7 years;married;own;Area_4;Area_4;32;c. 5-10 years;Public_Domain
+ABC0742;3;electronics;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_3;Area_1;23;d. More10 years;Public_Domain
+ABC0743;3;household_appliances;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_1;41;c. 5-10 years;Professional_Domain
+ABC0744;4;electronics;100;permanent_employee;c. 500 - 1000;c. 1-4 years;married;own;Area_3;Area_3;22;d. More10 years;Public_Domain
+ABC0745;1;electronics;300;unemployed;e. More 2000;d. 4-7 years;married;own;Area_3;Area_2;30;d. More10 years;Public_Domain
+ABC0746;3;business_loan;50;self-employed;a. Less 100;b. Less1 years;married;own;Area_2;Area_2;28;a. Less1 year;Public_Domain
+ABC0747;3;education;100;permanent_employee;a. Less 100;a. unemployed;single;rent;Area_4;Area_2;23;d. More10 years;Public_Domain
+ABC0748;1;education;50;self-employed;a. Less 100;b. Less1 years;single;own;Area_1;Area_3;37;a. Less1 year;Public_Domain
+ABC0749;3;business_loan;200;permanent_employee;e. More 2000;c. 1-4 years;married;own;Area_2;Area_4;26;c. 5-10 years;Public_Domain
+ABC0750;3;business_loan;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_4;33;b. 1-5 years;Professional_Domain
+ABC0751;1;vacation;50;permanent_employee;a. Less 100;e. More7 years;single;own;Area_2;Area_3;49;a. Less1 year;Public_Domain
+ABC0752;1;education;50;self-employed;a. Less 100;b. Less1 years;single;own;Area_1;Area_2;23;b. 1-5 years;Public_Domain
+ABC0753;6;business_loan;50;self-employed;b. 100 - 500;d. 4-7 years;single;rent;Area_4;Area_4;23;d. More10 years;Public_Domain
+ABC0754;1;electronics;200;permanent_employee;a. Less 100;d. 4-7 years;single;own;Area_3;Area_2;25;b. 1-5 years;Professional_Domain
+ABC0755;2;electronics;50;permanent_employee;d. 1000 - 2000;e. More7 years;married;family_owned;Area_4;Area_2;55;d. More10 years;Public_Domain
+ABC0756;4;electronics;50;permanent_employee;e. More 2000;d. 4-7 years;single;rent;Area_1;Area_1;32;d. More10 years;Public_Domain
+ABC0757;1;education;50;contract_employee;a. Less 100;c. 1-4 years;married;own;Area_3;Area_4;74;a. Less1 year;Public_Domain
+ABC0758;1;electronics;50;permanent_employee;e. More 2000;c. 1-4 years;married;family_owned;Area_2;Area_1;39;d. More10 years;Public_Domain
+ABC0759;4;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_4;31;b. 1-5 years;Public_Domain
+ABC0760;6;electronics;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_1;35;c. 5-10 years;Public_Domain
+ABC0761;6;electronics;200;permanent_employee;e. More 2000;e. More7 years;single;own;Area_1;Area_2;59;d. More10 years;Public_Domain
+ABC0762;3;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_1;Area_2;24;d. More10 years;Public_Domain
+ABC0763;6;electronics;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_4;Area_2;24;c. 5-10 years;Public_Domain
+ABC0764;6;electronics;300;unemployed;e. More 2000;e. More7 years;married;family_owned;Area_1;Area_4;30;d. More10 years;Public_Domain
+ABC0765;4;electronics;100;permanent_employee;b. 100 - 500;d. 4-7 years;divorced;own;Area_3;Area_2;27;c. 5-10 years;Public_Domain
+ABC0766;6;electronics;50;self-employed;a. Less 100;e. More7 years;divorced;own;Area_3;Area_1;40;c. 5-10 years;Public_Domain
+ABC0767;5;electronics;100;self-employed;a. Less 100;b. Less1 years;divorced;own;Area_2;Area_1;31;d. More10 years;Professional_Domain
+ABC0768;2;education;100;permanent_employee;e. More 2000;b. Less1 years;single;rent;Area_2;Area_2;31;d. More10 years;Public_Domain
+ABC0769;2;vacation;100;permanent_employee;a. Less 100;e. More7 years;married;rent;Area_1;Area_2;28;d. More10 years;Professional_Domain
+ABC0770;6;electronics;50;self-employed;a. Less 100;e. More7 years;married;own;Area_1;Area_3;63;d. More10 years;Public_Domain
+ABC0771;4;business_loan;100;permanent_employee;e. More 2000;e. More7 years;single;rent;Area_3;Area_1;26;d. More10 years;Public_Domain
+ABC0772;3;food;200;unemployed;a. Less 100;c. 1-4 years;single;own;Area_1;Area_3;25;b. 1-5 years;Professional_Domain
+ABC0773;3;business_loan;100;unemployed;a. Less 100;e. More7 years;married;own;Area_1;Area_4;36;d. More10 years;Professional_Domain
+ABC0774;4;vacation;100;permanent_employee;b. 100 - 500;e. More7 years;married;own;Area_1;Area_2;52;d. More10 years;Public_Domain
+ABC0775;2;household_appliances;50;contract_employee;c. 500 - 1000;a. unemployed;married;family_owned;Area_4;Area_1;66;d. More10 years;Public_Domain
+ABC0776;1;electronics;50;permanent_employee;e. More 2000;c. 1-4 years;single;rent;Area_2;Area_3;25;d. More10 years;Public_Domain
+ABC0777;5;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_1;Area_1;37;d. More10 years;Public_Domain
+ABC0778;3;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;single;own;Area_2;Area_3;25;a. Less1 year;Public_Domain
+ABC0779;5;business_loan;200;unemployed;d. 1000 - 2000;e. More7 years;married;own;Area_1;Area_1;38;b. 1-5 years;Public_Domain
+ABC0780;3;vacation;100;permanent_employee;a. Less 100;a. unemployed;single;own;Area_2;Area_2;67;d. More10 years;Public_Domain
+ABC0781;1;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_2;25;b. 1-5 years;Public_Domain
+ABC0782;1;education;50;permanent_employee;d. 1000 - 2000;e. More7 years;married;own;Area_2;Area_3;60;d. More10 years;Public_Domain
+ABC0783;6;education;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_2;Area_3;31;b. 1-5 years;Public_Domain
+ABC0784;1;food;50;self-employed;b. 100 - 500;b. Less1 years;single;own;Area_3;Area_2;23;b. 1-5 years;Public_Domain
+ABC0785;3;business_loan;200;unemployed;e. More 2000;a. unemployed;divorced;own;Area_3;Area_1;60;d. More10 years;Public_Domain
+ABC0786;3;business_loan;50;self-employed;d. 1000 - 2000;c. 1-4 years;married;own;Area_4;Area_4;35;b. 1-5 years;Public_Domain
+ABC0787;4;electronics;100;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_4;Area_3;40;d. More10 years;Public_Domain
+ABC0788;6;business_loan;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_1;Area_4;38;c. 5-10 years;Public_Domain
+ABC0789;6;food;200;permanent_employee;a. Less 100;e. More7 years;married;family_owned;Area_2;Area_3;50;d. More10 years;Public_Domain
+ABC0790;6;food;200;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_4;27;c. 5-10 years;Public_Domain
+ABC0791;3;business_loan;50;permanent_employee;a. Less 100;e. More7 years;single;own;Area_2;Area_1;39;d. More10 years;Public_Domain
+ABC0792;4;business_loan;200;unemployed;e. More 2000;e. More7 years;married;own;Area_2;Area_2;41;d. More10 years;Professional_Domain
+ABC0793;1;food;50;permanent_employee;e. More 2000;c. 1-4 years;divorced;own;Area_1;Area_2;27;b. 1-5 years;Public_Domain
+ABC0794;4;electronics;100;permanent_employee;a. Less 100;e. More7 years;divorced;family_owned;Area_1;Area_2;51;d. More10 years;Public_Domain
+ABC0795;4;electronics;100;permanent_employee;c. 500 - 1000;e. More7 years;married;rent;Area_2;Area_2;32;c. 5-10 years;Professional_Domain
+ABC0796;2;electronics;100;permanent_employee;b. 100 - 500;b. Less1 years;single;rent;Area_1;Area_3;22;d. More10 years;Public_Domain
+ABC0797;3;business_loan;200;permanent_employee;e. More 2000;e. More7 years;married;family_owned;Area_4;Area_2;51;d. More10 years;Public_Domain
+ABC0798;2;electronics;50;self-employed;a. Less 100;b. Less1 years;single;rent;Area_4;Area_2;22;d. More10 years;Public_Domain
+ABC0799;6;household_appliances;50;permanent_employee;e. More 2000;e. More7 years;divorced;own;Area_1;Area_1;54;d. More10 years;Public_Domain
+ABC0800;2;education;50;contract_employee;e. More 2000;b. Less1 years;married;own;Area_2;Area_2;35;b. 1-5 years;Public_Domain
+ABC0801;1;food;50;permanent_employee;a. Less 100;e. More7 years;married;family_owned;Area_1;Area_3;54;d. More10 years;Public_Domain
+ABC0802;3;electronics;50;self-employed;a. Less 100;e. More7 years;single;rent;Area_2;Area_1;48;d. More10 years;Public_Domain
+ABC0803;3;vacation;100;permanent_employee;a. Less 100;e. More7 years;single;own;Area_4;Area_2;24;d. More10 years;Professional_Domain
+ABC0804;3;electronics;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_1;Area_1;35;d. More10 years;Public_Domain
+ABC0805;6;electronics;200;contract_employee;e. More 2000;a. unemployed;single;rent;Area_1;Area_4;24;b. 1-5 years;Professional_Domain
+ABC0806;5;electronics;200;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_1;24;a. Less1 year;Public_Domain
+ABC0807;1;electronics;50;self-employed;a. Less 100;b. Less1 years;divorced;own;Area_1;Area_1;26;c. 5-10 years;Public_Domain
+ABC0808;6;education;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_1;Area_2;65;d. More10 years;Public_Domain
+ABC0809;6;business_loan;200;unemployed;a. Less 100;a. unemployed;married;family_owned;Area_1;Area_2;55;b. 1-5 years;Public_Domain
+ABC0810;6;electronics;50;contract_employee;a. Less 100;b. Less1 years;single;rent;Area_1;Area_2;26;a. Less1 year;Public_Domain
+ABC0811;1;business_loan;50;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_1;Area_1;26;b. 1-5 years;Public_Domain
+ABC0812;1;electronics;50;self-employed;a. Less 100;d. 4-7 years;divorced;own;Area_2;Area_4;28;c. 5-10 years;Public_Domain
+ABC0813;5;business_loan;200;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_2;24;d. More10 years;Public_Domain
+ABC0814;6;household_appliances;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_1;54;d. More10 years;Public_Domain
+ABC0815;6;food;100;permanent_employee;a. Less 100;d. 4-7 years;married;family_owned;Area_1;Area_1;46;d. More10 years;Public_Domain
+ABC0816;5;education;200;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_1;Area_1;54;b. 1-5 years;Professional_Domain
+ABC0817;1;household_appliances;50;permanent_employee;c. 500 - 1000;c. 1-4 years;divorced;own;Area_2;Area_1;62;d. More10 years;Public_Domain
+ABC0818;1;electronics;50;permanent_employee;a. Less 100;d. 4-7 years;single;rent;Area_2;Area_2;24;b. 1-5 years;Public_Domain
+ABC0819;5;vacation;300;unemployed;a. Less 100;a. unemployed;divorced;own;Area_1;Area_4;43;c. 5-10 years;Public_Domain
+ABC0820;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_1;Area_2;26;c. 5-10 years;Public_Domain
+ABC0821;6;education;50;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_3;Area_2;27;b. 1-5 years;Public_Domain
+ABC0822;6;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_4;Area_2;24;a. Less1 year;Public_Domain
+ABC0823;1;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_2;41;b. 1-5 years;Public_Domain
+ABC0824;2;education;50;self-employed;a. Less 100;e. More7 years;married;own;Area_4;Area_2;47;d. More10 years;Public_Domain
+ABC0825;3;electronics;100;unemployed;a. Less 100;b. Less1 years;divorced;own;Area_3;Area_1;35;b. 1-5 years;Public_Domain
+ABC0826;3;household_appliances;50;permanent_employee;a. Less 100;e. More7 years;divorced;own;Area_1;Area_1;30;c. 5-10 years;Public_Domain
+ABC0827;3;household_appliances;100;permanent_employee;a. Less 100;e. More7 years;single;rent;Area_2;Area_3;33;d. More10 years;Public_Domain
+ABC0828;3;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_2;Area_3;36;b. 1-5 years;Public_Domain
+ABC0829;3;business_loan;200;permanent_employee;e. More 2000;e. More7 years;married;family_owned;Area_1;Area_2;47;d. More10 years;Professional_Domain
+ABC0830;6;business_loan;200;permanent_employee;e. More 2000;c. 1-4 years;married;family_owned;Area_1;Area_1;38;d. More10 years;Professional_Domain
+ABC0831;4;business_loan;100;permanent_employee;c. 500 - 1000;c. 1-4 years;married;own;Area_2;Area_1;44;b. 1-5 years;Public_Domain
+ABC0832;3;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_3;Area_4;23;c. 5-10 years;Public_Domain
+ABC0833;6;household_appliances;300;permanent_employee;a. Less 100;e. More7 years;married;rent;Area_3;Area_4;29;d. More10 years;Professional_Domain
+ABC0834;1;education;200;permanent_employee;e. More 2000;e. More7 years;single;own;Area_4;Area_1;42;d. More10 years;Professional_Domain
+ABC0835;3;food;100;self-employed;a. Less 100;b. Less1 years;single;own;Area_3;Area_4;25;c. 5-10 years;Public_Domain
+ABC0836;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_3;Area_4;48;d. More10 years;Public_Domain
+ABC0837;3;education;50;permanent_employee;e. More 2000;c. 1-4 years;single;own;Area_2;Area_2;21;b. 1-5 years;Public_Domain
+ABC0838;1;electronics;50;self-employed;a. Less 100;b. Less1 years;single;rent;Area_2;Area_4;23;c. 5-10 years;Public_Domain
+ABC0839;4;business_loan;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_4;63;d. More10 years;Public_Domain
+ABC0840;1;education;100;permanent_employee;a. Less 100;e. More7 years;divorced;own;Area_3;Area_3;46;c. 5-10 years;Public_Domain
+ABC0841;1;vacation;200;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_4;29;b. 1-5 years;Professional_Domain
+ABC0842;3;business_loan;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_2;Area_2;28;b. 1-5 years;Public_Domain
+ABC0843;6;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_4;Area_2;23;d. More10 years;Public_Domain
+ABC0844;4;business_loan;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_2;Area_3;50;d. More10 years;Public_Domain
+ABC0845;3;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_1;Area_2;47;d. More10 years;Public_Domain
+ABC0846;3;electronics;100;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_1;Area_3;35;c. 5-10 years;Professional_Domain
+ABC0847;3;electronics;200;permanent_employee;e. More 2000;c. 1-4 years;married;rent;Area_2;Area_3;68;d. More10 years;Professional_Domain
+ABC0848;6;electronics;50;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_1;Area_1;28;b. 1-5 years;Public_Domain
+ABC0849;2;electronics;50;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_4;Area_3;59;d. More10 years;Public_Domain
+ABC0850;6;electronics;50;self-employed;a. Less 100;e. More7 years;married;own;Area_3;Area_2;57;d. More10 years;Public_Domain
+ABC0851;3;food;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;rent;Area_3;Area_4;33;b. 1-5 years;Public_Domain
+ABC0852;4;business_loan;100;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_4;Area_4;43;d. More10 years;Professional_Domain
+ABC0853;3;household_appliances;50;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_3;Area_4;35;d. More10 years;Public_Domain
+ABC0854;3;electronics;50;self-employed;a. Less 100;d. 4-7 years;married;family_owned;Area_4;Area_1;32;d. More10 years;Public_Domain
+ABC0855;3;electronics;300;permanent_employee;a. Less 100;e. More7 years;married;own;Area_4;Area_3;45;b. 1-5 years;Professional_Domain
+ABC0856;6;electronics;50;permanent_employee;b. 100 - 500;b. Less1 years;divorced;own;Area_3;Area_2;33;c. 5-10 years;Public_Domain
+ABC0857;3;education;50;permanent_employee;e. More 2000;d. 4-7 years;single;own;Area_2;Area_4;40;c. 5-10 years;Public_Domain
+ABC0858;3;food;100;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_2;Area_2;28;b. 1-5 years;Professional_Domain
+ABC0859;3;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_1;Area_2;29;b. 1-5 years;Public_Domain
+ABC0860;2;education;100;permanent_employee;b. 100 - 500;c. 1-4 years;married;rent;Area_2;Area_1;26;b. 1-5 years;Public_Domain
+ABC0861;4;business_loan;200;permanent_employee;d. 1000 - 2000;c. 1-4 years;married;own;Area_4;Area_3;27;b. 1-5 years;Public_Domain
+ABC0862;1;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_1;Area_4;28;b. 1-5 years;Public_Domain
+ABC0863;3;vacation;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_4;Area_2;35;d. More10 years;Public_Domain
+ABC0864;4;electronics;100;self-employed;d. 1000 - 2000;b. Less1 years;married;own;Area_2;Area_1;32;b. 1-5 years;Public_Domain
+ABC0865;2;electronics;100;self-employed;a. Less 100;c. 1-4 years;married;rent;Area_4;Area_3;25;b. 1-5 years;Public_Domain
+ABC0866;3;electronics;100;permanent_employee;c. 500 - 1000;c. 1-4 years;single;rent;Area_1;Area_2;20;d. More10 years;Public_Domain
+ABC0867;3;vacation;100;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_4;Area_1;27;a. Less1 year;Public_Domain
+ABC0868;2;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_3;42;d. More10 years;Public_Domain
+ABC0869;5;business_loan;200;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_3;37;b. 1-5 years;Professional_Domain
+ABC0870;2;food;50;permanent_employee;a. Less 100;e. More7 years;single;rent;Area_2;Area_2;24;d. More10 years;Public_Domain
+ABC0871;5;food;200;permanent_employee;c. 500 - 1000;d. 4-7 years;single;own;Area_4;Area_4;40;d. More10 years;Public_Domain
+ABC0872;1;education;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_2;46;d. More10 years;Public_Domain
+ABC0873;6;business_loan;50;permanent_employee;b. 100 - 500;d. 4-7 years;married;own;Area_1;Area_3;26;a. Less1 year;Public_Domain
+ABC0874;3;household_appliances;50;permanent_employee;e. More 2000;b. Less1 years;single;own;Area_4;Area_2;24;a. Less1 year;Public_Domain
+ABC0875;2;electronics;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_3;Area_4;29;b. 1-5 years;Professional_Domain
+ABC0876;6;electronics;50;permanent_employee;d. 1000 - 2000;c. 1-4 years;single;own;Area_1;Area_2;40;d. More10 years;Public_Domain
+ABC0877;3;electronics;50;unemployed;a. Less 100;b. Less1 years;married;family_owned;Area_2;Area_4;36;d. More10 years;Public_Domain
+ABC0878;5;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;own;Area_2;Area_2;28;b. 1-5 years;Public_Domain
+ABC0879;2;electronics;50;unemployed;a. Less 100;b. Less1 years;married;family_owned;Area_1;Area_2;27;b. 1-5 years;Public_Domain
+ABC0880;5;electronics;200;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_3;Area_3;36;c. 5-10 years;Professional_Domain
+ABC0881;4;business_loan;200;unemployed;a. Less 100;d. 4-7 years;married;own;Area_1;Area_3;38;c. 5-10 years;Professional_Domain
+ABC0882;4;business_loan;200;permanent_employee;e. More 2000;c. 1-4 years;divorced;family_owned;Area_2;Area_1;48;d. More10 years;Public_Domain
+ABC0883;5;electronics;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_4;36;d. More10 years;Public_Domain
+ABC0884;3;electronics;50;contract_employee;a. Less 100;a. unemployed;single;own;Area_1;Area_1;65;d. More10 years;Public_Domain
+ABC0885;4;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;divorced;own;Area_2;Area_4;43;c. 5-10 years;Public_Domain
+ABC0886;2;food;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_2;Area_3;53;d. More10 years;Public_Domain
+ABC0887;4;business_loan;100;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_4;Area_4;34;c. 5-10 years;Public_Domain
+ABC0888;6;business_loan;300;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_4;Area_3;23;b. 1-5 years;Professional_Domain
+ABC0889;5;electronics;200;unemployed;a. Less 100;e. More7 years;married;own;Area_2;Area_1;34;d. More10 years;Professional_Domain
+ABC0890;4;business_loan;200;permanent_employee;e. More 2000;b. Less1 years;married;rent;Area_2;Area_2;40;d. More10 years;Professional_Domain
+ABC0891;4;business_loan;100;unemployed;a. Less 100;e. More7 years;married;own;Area_1;Area_2;43;d. More10 years;Public_Domain
+ABC0892;3;household_appliances;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_1;Area_2;46;d. More10 years;Public_Domain
+ABC0893;6;electronics;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_1;Area_3;38;d. More10 years;Public_Domain
+ABC0894;5;business_loan;200;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_4;34;d. More10 years;Professional_Domain
+ABC0895;3;household_appliances;50;permanent_employee;e. More 2000;c. 1-4 years;married;own;Area_3;Area_2;29;c. 5-10 years;Public_Domain
+ABC0896;5;business_loan;200;unemployed;e. More 2000;d. 4-7 years;married;own;Area_3;Area_1;31;b. 1-5 years;Public_Domain
+ABC0897;3;household_appliances;100;unemployed;a. Less 100;b. Less1 years;single;rent;Area_4;Area_2;28;d. More10 years;Public_Domain
+ABC0898;2;electronics;50;permanent_employee;d. 1000 - 2000;d. 4-7 years;single;own;Area_3;Area_1;35;b. 1-5 years;Public_Domain
+ABC0899;3;electronics;100;self-employed;e. More 2000;d. 4-7 years;single;rent;Area_1;Area_3;33;d. More10 years;Public_Domain
+ABC0900;1;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_2;42;c. 5-10 years;Professional_Domain
+ABC0901;3;electronics;100;permanent_employee;a. Less 100;e. More7 years;married;rent;Area_1;Area_2;43;d. More10 years;Public_Domain
+ABC0902;3;electronics;100;permanent_employee;e. More 2000;b. Less1 years;divorced;own;Area_1;Area_2;44;d. More10 years;Public_Domain
+ABC0903;5;business_loan;300;permanent_employee;e. More 2000;e. More7 years;married;family_owned;Area_4;Area_2;42;d. More10 years;Public_Domain
+ABC0904;3;electronics;50;permanent_employee;e. More 2000;c. 1-4 years;divorced;rent;Area_1;Area_4;40;b. 1-5 years;Public_Domain
+ABC0905;6;electronics;50;unemployed;a. Less 100;e. More7 years;married;own;Area_1;Area_3;36;a. Less1 year;Public_Domain
+ABC0906;2;electronics;50;unemployed;a. Less 100;c. 1-4 years;married;rent;Area_3;Area_1;20;b. 1-5 years;Public_Domain
+ABC0907;3;household_appliances;100;self-employed;e. More 2000;d. 4-7 years;married;own;Area_1;Area_2;24;b. 1-5 years;Professional_Domain
+ABC0908;5;food;100;permanent_employee;e. More 2000;c. 1-4 years;divorced;own;Area_1;Area_2;27;b. 1-5 years;Public_Domain
+ABC0909;3;business_loan;100;self-employed;a. Less 100;b. Less1 years;single;own;Area_3;Area_3;46;b. 1-5 years;Professional_Domain
+ABC0910;2;education;100;self-employed;e. More 2000;c. 1-4 years;single;own;Area_3;Area_4;33;b. 1-5 years;Professional_Domain
+ABC0911;5;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_4;Area_1;34;d. More10 years;Public_Domain
+ABC0912;3;electronics;100;self-employed;a. Less 100;b. Less1 years;single;own;Area_1;Area_4;25;d. More10 years;Public_Domain
+ABC0913;5;electronics;100;permanent_employee;e. More 2000;e. More7 years;single;own;Area_2;Area_1;25;d. More10 years;Public_Domain
+ABC0914;2;business_loan;100;permanent_employee;d. 1000 - 2000;e. More7 years;divorced;own;Area_1;Area_1;28;b. 1-5 years;Public_Domain
+ABC0915;1;business_loan;100;permanent_employee;a. Less 100;c. 1-4 years;married;rent;Area_3;Area_2;31;b. 1-5 years;Professional_Domain
+ABC0916;6;household_appliances;300;unemployed;a. Less 100;c. 1-4 years;single;own;Area_1;Area_2;32;b. 1-5 years;Public_Domain
+ABC0917;2;business_loan;100;permanent_employee;b. 100 - 500;c. 1-4 years;married;own;Area_3;Area_4;32;b. 1-5 years;Public_Domain
+ABC0918;1;electronics;300;unemployed;a. Less 100;e. More7 years;married;own;Area_2;Area_3;68;d. More10 years;Public_Domain
+ABC0919;4;electronics;100;permanent_employee;b. 100 - 500;a. unemployed;divorced;own;Area_2;Area_1;33;a. Less1 year;Public_Domain
+ABC0920;3;electronics;100;unemployed;a. Less 100;e. More7 years;married;rent;Area_2;Area_1;39;b. 1-5 years;Public_Domain
+ABC0921;3;vacation;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_1;Area_2;28;b. 1-5 years;Public_Domain
+ABC0922;6;household_appliances;300;unemployed;c. 500 - 1000;d. 4-7 years;married;own;Area_2;Area_1;37;a. Less1 year;Public_Domain
+ABC0923;2;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_4;Area_1;22;d. More10 years;Public_Domain
+ABC0924;6;electronics;100;permanent_employee;a. Less 100;d. 4-7 years;married;rent;Area_1;Area_4;30;d. More10 years;Public_Domain
+ABC0925;4;vacation;200;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_3;Area_3;55;a. Less1 year;Public_Domain
+ABC0926;3;electronics;50;permanent_employee;a. Less 100;b. Less1 years;married;own;Area_1;Area_4;46;b. 1-5 years;Public_Domain
+ABC0927;3;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_3;Area_2;21;d. More10 years;Public_Domain
+ABC0928;6;business_loan;300;permanent_employee;a. Less 100;d. 4-7 years;married;family_owned;Area_2;Area_4;39;d. More10 years;Public_Domain
+ABC0929;5;electronics;50;permanent_employee;e. More 2000;e. More7 years;married;own;Area_4;Area_1;58;d. More10 years;Public_Domain
+ABC0930;3;electronics;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_2;Area_2;43;b. 1-5 years;Public_Domain
+ABC0931;4;electronics;50;self-employed;a. Less 100;b. Less1 years;married;own;Area_1;Area_4;24;a. Less1 year;Public_Domain
+ABC0932;1;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;own;Area_1;Area_4;22;b. 1-5 years;Public_Domain
+ABC0933;3;education;50;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_1;Area_2;30;a. Less1 year;Public_Domain
+ABC0934;2;electronics;50;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_1;Area_2;42;d. More10 years;Public_Domain
+ABC0935;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_3;Area_2;23;a. Less1 year;Public_Domain
+ABC0936;3;electronics;50;unemployed;b. 100 - 500;b. Less1 years;married;own;Area_1;Area_4;30;c. 5-10 years;Public_Domain
+ABC0937;2;electronics;50;self-employed;a. Less 100;c. 1-4 years;single;own;Area_3;Area_1;28;b. 1-5 years;Public_Domain
+ABC0938;1;electronics;100;unemployed;a. Less 100;b. Less1 years;divorced;rent;Area_2;Area_2;30;c. 5-10 years;Public_Domain
+ABC0939;6;food;200;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_3;Area_3;42;d. More10 years;Professional_Domain
+ABC0940;4;business_loan;200;unemployed;e. More 2000;c. 1-4 years;married;own;Area_2;Area_4;46;d. More10 years;Public_Domain
+ABC0941;3;electronics;100;unemployed;e. More 2000;b. Less1 years;married;own;Area_1;Area_2;45;c. 5-10 years;Public_Domain
+ABC0942;1;education;50;self-employed;a. Less 100;c. 1-4 years;married;own;Area_4;Area_4;31;b. 1-5 years;Public_Domain
+ABC0943;4;vacation;50;permanent_employee;e. More 2000;d. 4-7 years;married;own;Area_2;Area_4;31;b. 1-5 years;Public_Domain
+ABC0944;1;electronics;50;self-employed;a. Less 100;d. 4-7 years;married;own;Area_2;Area_3;42;a. Less1 year;Public_Domain
+ABC0945;3;electronics;50;permanent_employee;a. Less 100;b. Less1 years;single;rent;Area_1;Area_1;46;a. Less1 year;Public_Domain
+ABC0946;6;education;200;permanent_employee;c. 500 - 1000;b. Less1 years;single;own;Area_1;Area_3;30;a. Less1 year;Professional_Domain
+ABC0947;1;electronics;100;permanent_employee;c. 500 - 1000;b. Less1 years;married;family_owned;Area_4;Area_3;30;d. More10 years;Professional_Domain
+ABC0948;6;household_appliances;100;unemployed;e. More 2000;a. unemployed;married;own;Area_3;Area_4;38;d. More10 years;Public_Domain
+ABC0949;1;electronics;50;self-employed;a. Less 100;b. Less1 years;divorced;own;Area_4;Area_2;43;a. Less1 year;Public_Domain
+ABC0950;6;electronics;100;permanent_employee;b. 100 - 500;e. More7 years;married;own;Area_4;Area_2;31;d. More10 years;Public_Domain
+ABC0951;3;business_loan;100;contract_employee;a. Less 100;a. unemployed;divorced;own;Area_4;Area_2;40;c. 5-10 years;Public_Domain
+ABC0952;3;business_loan;100;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_3;Area_2;24;a. Less1 year;Public_Domain
+ABC0953;3;business_loan;100;permanent_employee;c. 500 - 1000;b. Less1 years;single;rent;Area_1;Area_4;28;d. More10 years;Public_Domain
+ABC0954;5;electronics;300;unemployed;a. Less 100;a. unemployed;single;own;Area_2;Area_2;26;b. 1-5 years;Public_Domain
+ABC0955;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_2;Area_1;29;d. More10 years;Public_Domain
+ABC0956;4;household_appliances;50;unemployed;d. 1000 - 2000;e. More7 years;single;rent;Area_4;Area_1;57;d. More10 years;Public_Domain
+ABC0957;6;household_appliances;100;self-employed;e. More 2000;e. More7 years;married;own;Area_1;Area_4;49;d. More10 years;Professional_Domain
+ABC0958;2;electronics;50;self-employed;a. Less 100;e. More7 years;married;own;Area_3;Area_4;37;d. More10 years;Public_Domain
+ABC0959;3;electronics;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_1;Area_1;45;b. 1-5 years;Professional_Domain
+ABC0960;4;food;100;permanent_employee;b. 100 - 500;e. More7 years;married;family_owned;Area_1;Area_2;30;d. More10 years;Public_Domain
+ABC0961;1;electronics;50;permanent_employee;a. Less 100;e. More7 years;divorced;rent;Area_1;Area_2;30;b. 1-5 years;Public_Domain
+ABC0962;3;electronics;100;permanent_employee;a. Less 100;c. 1-4 years;divorced;own;Area_2;Area_3;47;d. More10 years;Public_Domain
+ABC0963;3;electronics;100;permanent_employee;e. More 2000;c. 1-4 years;married;own;Area_4;Area_2;29;b. 1-5 years;Public_Domain
+ABC0964;4;household_appliances;100;permanent_employee;c. 500 - 1000;e. More7 years;married;own;Area_1;Area_2;35;b. 1-5 years;Public_Domain
+ABC0965;1;vacation;50;self-employed;a. Less 100;b. Less1 years;divorced;own;Area_1;Area_4;22;a. Less1 year;Public_Domain
+ABC0966;5;electronics;50;permanent_employee;e. More 2000;c. 1-4 years;single;own;Area_2;Area_4;26;a. Less1 year;Public_Domain
+ABC0967;4;electronics;100;self-employed;c. 500 - 1000;c. 1-4 years;married;own;Area_2;Area_4;23;b. 1-5 years;Public_Domain
+ABC0968;3;electronics;100;unemployed;a. Less 100;e. More7 years;single;rent;Area_1;Area_3;54;b. 1-5 years;Professional_Domain
+ABC0969;6;electronics;200;permanent_employee;e. More 2000;d. 4-7 years;divorced;rent;Area_1;Area_2;29;d. More10 years;Public_Domain
+ABC0970;1;education;100;self-employed;a. Less 100;c. 1-4 years;married;own;Area_4;Area_1;40;b. 1-5 years;Public_Domain
+ABC0971;6;vacation;50;permanent_employee;b. 100 - 500;c. 1-4 years;married;own;Area_3;Area_4;22;b. 1-5 years;Public_Domain
+ABC0972;1;education;200;self-employed;a. Less 100;c. 1-4 years;;own;Area_2;Area_4;43;d. More10 years;Professional_Domain
+ABC0973;6;vacation;50;contract_employee;a. Less 100;a. unemployed;single;rent;Area_3;Area_4;29;d. More10 years;Public_Domain
+ABC0974;1;vacation;200;permanent_employee;a. Less 100;e. More7 years;married;rent;Area_2;Area_3;36;d. More10 years;Professional_Domain
+ABC0975;5;electronics;100;permanent_employee;a. Less 100;;single;own;Area_1;Area_2;33;b. 1-5 years;Public_Domain
+ABC0976;4;electronics;50;self-employed;c. 500 - 1000;c. 1-4 years;single;own;Area_1;Area_3;57;c. 5-10 years;Public_Domain
+ABC0977;1;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;own;Area_4;Area_2;64;c. 5-10 years;Public_Domain
+ABC0978;1;vacation;100;permanent_employee;e. More 2000;e. More7 years;married;own;Area_2;Area_2;42;b. 1-5 years;Public_Domain
+ABC0979;6;electronics;100;self-employed;a. Less 100;e. More7 years;married;own;Area_1;Area_2;47;d. More10 years;Public_Domain
+ABC0980;6;vacation;50;permanent_employee;b. 100 - 500;c. 1-4 years;divorced;rent;Area_4;Area_1;25;b. 1-5 years;Public_Domain
+ABC0981;3;electronics;200;permanent_employee;a. Less 100;d. 4-7 years;married;own;Area_4;Area_2;49;b. 1-5 years;Public_Domain
+ABC0982;1;electronics;100;unemployed;a. Less 100;a. unemployed;married;rent;Area_1;Area_4;33;b. 1-5 years;Public_Domain
+ABC0983;6;food;100;unemployed;b. 100 - 500;c. 1-4 years;single;own;Area_4;Area_3;28;a. Less1 year;Public_Domain
+ABC0984;5;household_appliances;200;permanent_employee;a. Less 100;c. 1-4 years;married;own;Area_4;Area_1;26;;Public_Domain
+ABC0985;4;electronics;100;self-employed;a. Less 100;d. 4-7 years;married;own;Area_2;Area_2;30;b. 1-5 years;Public_Domain
+ABC0986;3;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;single;rent;Area_2;Area_4;25;c. 5-10 years;Public_Domain
+ABC0987;6;business_loan;200;permanent_employee;a. Less 100;b. Less1 years;divorced;own;Area_4;Area_4;33;a. Less1 year;Public_Domain
+ABC0988;3;electronics;50;permanent_employee;b. 100 - 500;a. unemployed;single;own;Area_4;Area_3;64;d. More10 years;Public_Domain
+ABC0989;4;business_loan;200;unemployed;a. Less 100;a. unemployed;married;family_owned;Area_2;Area_1;29;b. 1-5 years;Public_Domain
+ABC0990;1;electronics;50;self-employed;a. Less 100;e. More7 years;married;own;Area_2;Area_3;48;b. 1-5 years;Public_Domain
+ABC0991;6;food;100;self-employed;e. More 2000;b. Less1 years;married;own;Area_1;Area_1;37;a. Less1 year;Professional_Domain
+ABC0992;1;electronics;50;self-employed;b. 100 - 500;e. More7 years;married;own;Area_2;Area_3;34;d. More10 years;Public_Domain
+ABC0993;1;electronics;50;;e. More 2000;d. 4-7 years;divorced;rent;Area_3;Area_2;23;d. More10 years;Public_Domain
+ABC0994;1;food;100;;a. Less 100;a. unemployed;married;own;Area_4;Area_3;30;c. 5-10 years;Public_Domain
+ABC0995;2;electronics;100;;e. More 2000;e. More7 years;married;own;Area_4;Area_2;50;c. 5-10 years;Public_Domain
+ABC0996;2;food;50;self-employed;a. Less 100;d. 4-7 years;single;own;Area_2;Area_1;31;d. More10 years;Public_Domain
+ABC0997;5;business_loan;100;unemployed;a. Less 100;c. 1-4 years;divorced;own;Area_2;Area_3;40;d. More10 years;Public_Domain
+ABC0998;1;electronics;50;permanent_employee;a. Less 100;e. More7 years;married;own;Area_3;Area_1;38;d. More10 years;Public_Domain
+ABC0999;6;electronics;50;permanent_employee;a. Less 100;c. 1-4 years;married;family_owned;Area_2;Area_1;23;d. More10 years;Public_Domain
+ABC1000;6;business_loan;100;permanent_employee;b. 100 - 500;a. unemployed;married;own;Area_4;Area_3;27;d. More10 years;Professional_Domain
